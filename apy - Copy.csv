@@ -1,0 +1,1357 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Assam,BAKSA,2005,Autumn     ,Rice,17083,15415
+Assam,BAKSA,2005,Summer     ,Rice,12650,17027
+Assam,BAKSA,2005,Winter     ,Rice,66229,93287
+Assam,BAKSA,2006,Autumn     ,Rice,26235,23208
+Assam,BAKSA,2006,Summer     ,Rice,12737,25691
+Assam,BAKSA,2006,Winter     ,Rice,52195,67915
+Assam,BAKSA,2007,Autumn     ,Rice,21551,20266
+Assam,BAKSA,2007,Summer     ,Rice,7124,14341
+Assam,BAKSA,2007,Winter     ,Rice,58558,73246
+Assam,BAKSA,2008,Autumn     ,Rice,13587,18640
+Assam,BAKSA,2008,Summer     ,Rice,11712,20949
+Assam,BAKSA,2008,Winter     ,Rice,69495,124614
+Assam,BAKSA,2009,Autumn     ,Rice,13217,21279
+Assam,BAKSA,2009,Summer     ,Rice,10524,16463
+Assam,BAKSA,2009,Winter     ,Rice,68453,109965
+Assam,BAKSA,2010,Autumn     ,Rice,11562,13489
+Assam,BAKSA,2010,Summer     ,Rice,6000,13150
+Assam,BAKSA,2010,Winter     ,Rice,84168,134217
+Assam,BAKSA,2011,Autumn     ,Rice,10325,167
+Assam,BAKSA,2011,Summer     ,Rice,2500,19425
+Assam,BAKSA,2011,Winter     ,Rice,85450,16636
+Assam,BAKSA,2012,Autumn     ,Rice,11780,168
+Assam,BAKSA,2012,Summer     ,Rice,2520,11495
+Assam,BAKSA,2012,Winter     ,Rice,85485,16672
+Assam,BAKSA,2013,Autumn     ,Rice,10200,221
+Assam,BAKSA,2013,Summer     ,Rice,2750,20675
+Assam,BAKSA,2013,Winter     ,Rice,85730,18283
+Assam,BAKSA,2014,Autumn     ,Rice,10800,205
+Assam,BAKSA,2014,Summer     ,Rice,3050,20675
+Assam,BAKSA,2014,Winter     ,Rice,86070,43512
+Assam,BARPETA,1997,Autumn     ,Rice,83560,239
+Assam,BARPETA,1997,Summer     ,Rice,8850,5360
+Assam,BARPETA,1997,Winter     ,Rice,103015,46436
+Assam,BARPETA,1998,Autumn     ,Rice,83355,263
+Assam,BARPETA,1998,Summer     ,Rice,16435,6649
+Assam,BARPETA,1998,Winter     ,Rice,88835,59762
+Assam,BARPETA,1999,Autumn     ,Rice,83830,246
+Assam,BARPETA,1999,Summer     ,Rice,18637,5801
+Assam,BARPETA,1999,Winter     ,Rice,104375,60705
+Assam,BARPETA,2000,Autumn     ,Rice,73675,230
+Assam,BARPETA,2000,Summer     ,Rice,25005,5895
+Assam,BARPETA,2000,Winter     ,Rice,97175,40845
+Assam,BARPETA,2001,Autumn     ,Rice,56482,268
+Assam,BARPETA,2001,Summer     ,Rice,18510,5326
+Assam,BARPETA,2001,Winter     ,Rice,97500,38265
+Assam,BARPETA,2002,Autumn     ,Rice,63725,260
+Assam,BARPETA,2002,Summer     ,Rice,16000,4671
+Assam,BARPETA,2002,Winter     ,Rice,99500,41992
+Assam,BARPETA,2003,Autumn     ,Rice,58500,227
+Assam,BARPETA,2003,Summer     ,Rice,17400,7728
+Assam,BARPETA,2003,Winter     ,Rice,99750,7597
+Assam,BARPETA,2004,Autumn     ,Rice,60760,172
+Assam,BARPETA,2004,Summer     ,Rice,19645,4264000
+Assam,BARPETA,2004,Winter     ,Rice,62225,39916
+Assam,BARPETA,2005,Autumn     ,Rice,51500,99
+Assam,BARPETA,2005,Summer     ,Rice,13897,7577
+Assam,BARPETA,2005,Winter     ,Rice,52755,29973
+Assam,BARPETA,2006,Autumn     ,Rice,46504,136
+Assam,BARPETA,2006,Summer     ,Rice,15213,2420
+Assam,BARPETA,2006,Winter     ,Rice,50173,18202
+Assam,BARPETA,2007,Autumn     ,Rice,33564,124
+Assam,BARPETA,2007,Summer     ,Rice,16829,2862
+Assam,BARPETA,2007,Winter     ,Rice,53821,43134
+Assam,BARPETA,2008,Autumn     ,Rice,48880,252
+Assam,BARPETA,2008,Summer     ,Rice,42937,2210
+Assam,BARPETA,2008,Winter     ,Rice,72524,40476
+Assam,BARPETA,2009,Autumn     ,Rice,50063,291
+Assam,BARPETA,2009,Summer     ,Rice,48309,2307
+Assam,BARPETA,2009,Winter     ,Rice,73690,33805
+Assam,BARPETA,2010,Autumn     ,Rice,39756,312
+Assam,BARPETA,2010,Summer     ,Rice,51581,29697
+Assam,BARPETA,2010,Winter     ,Rice,74406,13767
+Assam,BARPETA,2011,Autumn     ,Rice,27987,253
+Assam,BARPETA,2011,Summer     ,Rice,51708,38079
+Assam,BARPETA,2011,Winter     ,Rice,78281,1075
+Assam,BARPETA,2012,Autumn     ,Rice,6346,220
+Assam,BARPETA,2012,Summer     ,Rice,52921,35650
+Assam,BARPETA,2012,Winter     ,Rice,66597,16796
+Assam,BARPETA,2013,Autumn     ,Rice,19191,180
+Assam,BARPETA,2013,Summer     ,Rice,47877,37448
+Assam,BARPETA,2013,Winter     ,Rice,67630,18634
+Assam,BARPETA,2014,Autumn     ,Rice,17551,212
+Assam,BARPETA,2014,Summer     ,Rice,49261,39575
+Assam,BARPETA,2014,Winter     ,Rice,69154,14056
+Assam,BONGAIGAON,1997,Autumn     ,Rice,29514,141
+Assam,BONGAIGAON,1997,Summer     ,Rice,6366,3521
+Assam,BONGAIGAON,1997,Winter     ,Rice,56841,28062
+Assam,BONGAIGAON,1998,Autumn     ,Rice,33335,168
+Assam,BONGAIGAON,1998,Summer     ,Rice,6795,4020
+Assam,BONGAIGAON,1998,Winter     ,Rice,56133,23441
+Assam,BONGAIGAON,1999,Autumn     ,Rice,32940,176
+Assam,BONGAIGAON,1999,Summer     ,Rice,8414,4439
+Assam,BONGAIGAON,1999,Winter     ,Rice,57620,30980
+Assam,BONGAIGAON,2000,Autumn     ,Rice,33157,191
+Assam,BONGAIGAON,2000,Summer     ,Rice,9931,5016
+Assam,BONGAIGAON,2000,Winter     ,Rice,57625,30266
+Assam,BONGAIGAON,2001,Autumn     ,Rice,33306,214
+Assam,BONGAIGAON,2001,Summer     ,Rice,9967,4024
+Assam,BONGAIGAON,2001,Winter     ,Rice,57795,29871
+Assam,BONGAIGAON,2002,Autumn     ,Rice,33750,225
+Assam,BONGAIGAON,2002,Summer     ,Rice,9527,2785
+Assam,BONGAIGAON,2002,Winter     ,Rice,59640,32358
+Assam,BONGAIGAON,2003,Autumn     ,Rice,34213,200
+Assam,BONGAIGAON,2003,Summer     ,Rice,9569,4934
+Assam,BONGAIGAON,2003,Winter     ,Rice,58844,23886
+Assam,BONGAIGAON,2004,Autumn     ,Rice,34147,190
+Assam,BONGAIGAON,2004,Summer     ,Rice,9997,4783000
+Assam,BONGAIGAON,2004,Winter     ,Rice,58690,27125
+Assam,BONGAIGAON,2005,Autumn     ,Rice,29128,83
+Assam,BONGAIGAON,2005,Summer     ,Rice,7814,5552
+Assam,BONGAIGAON,2005,Winter     ,Rice,39572,16774
+Assam,BONGAIGAON,2006,Autumn     ,Rice,23189,97
+Assam,BONGAIGAON,2006,Summer     ,Rice,7818,1588
+Assam,BONGAIGAON,2006,Winter     ,Rice,32545,16954
+Assam,BONGAIGAON,2007,Autumn     ,Rice,22507,90
+Assam,BONGAIGAON,2007,Summer     ,Rice,8132,1583
+Assam,BONGAIGAON,2007,Winter     ,Rice,35410,20617
+Assam,BONGAIGAON,2008,Autumn     ,Rice,22147,79
+Assam,BONGAIGAON,2008,Summer     ,Rice,9947,2024
+Assam,BONGAIGAON,2008,Winter     ,Rice,36346,14732
+Assam,BONGAIGAON,2009,Autumn     ,Rice,20782,78
+Assam,BONGAIGAON,2009,Summer     ,Rice,10028,1721
+Assam,BONGAIGAON,2009,Winter     ,Rice,34421,12826
+Assam,BONGAIGAON,2010,Autumn     ,Rice,16142,98
+Assam,BONGAIGAON,2010,Summer     ,Rice,10680,8299
+Assam,BONGAIGAON,2010,Winter     ,Rice,34806,17728
+Assam,BONGAIGAON,2011,Autumn     ,Rice,15953,117
+Assam,BONGAIGAON,2011,Summer     ,Rice,10507,9016
+Assam,BONGAIGAON,2011,Winter     ,Rice,36205,16900
+Assam,BONGAIGAON,2012,Autumn     ,Rice,12922,111
+Assam,BONGAIGAON,2012,Summer     ,Rice,10740,10050
+Assam,BONGAIGAON,2012,Winter     ,Rice,35931,17595
+Assam,BONGAIGAON,2013,Autumn     ,Rice,11021,141
+Assam,BONGAIGAON,2013,Summer     ,Rice,13070,10238
+Assam,BONGAIGAON,2013,Winter     ,Rice,32690,7909
+Assam,BONGAIGAON,2014,Autumn     ,Rice,5865,170
+Assam,BONGAIGAON,2014,Summer     ,Rice,11685,11279
+Assam,BONGAIGAON,2014,Winter     ,Rice,35299,7956
+Assam,CACHAR,1997,Autumn     ,Rice,8278,92
+Assam,CACHAR,1997,Summer     ,Rice,7200,1058
+Assam,CACHAR,1997,Winter     ,Rice,88000,11894
+Assam,CACHAR,1998,Autumn     ,Rice,8500,72
+Assam,CACHAR,1998,Summer     ,Rice,6800,2237
+Assam,CACHAR,1998,Winter     ,Rice,87641,7199
+Assam,CACHAR,1999,Autumn     ,Rice,7800,72
+Assam,CACHAR,1999,Summer     ,Rice,7800,858
+Assam,CACHAR,1999,Winter     ,Rice,87864,26674
+Assam,CACHAR,2000,Autumn     ,Rice,12000,79
+Assam,CACHAR,2000,Summer     ,Rice,8000,3106
+Assam,CACHAR,2000,Winter     ,Rice,84000,18819
+Assam,CACHAR,2001,Autumn     ,Rice,9000,79
+Assam,CACHAR,2001,Summer     ,Rice,9000,2143
+Assam,CACHAR,2001,Winter     ,Rice,84093,17300
+Assam,CACHAR,2002,Autumn     ,Rice,9010,78
+Assam,CACHAR,2002,Summer     ,Rice,9110,1566
+Assam,CACHAR,2002,Winter     ,Rice,87000,18799
+Assam,CACHAR,2003,Autumn     ,Rice,9250,85
+Assam,CACHAR,2003,Summer     ,Rice,9865,1222
+Assam,CACHAR,2003,Winter     ,Rice,90081,2140
+Assam,CACHAR,2004,Autumn     ,Rice,10174,89
+Assam,CACHAR,2004,Summer     ,Rice,9990,2272000
+Assam,CACHAR,2004,Winter     ,Rice,82968,18157
+Assam,CACHAR,2005,Autumn     ,Rice,9411,86
+Assam,CACHAR,2005,Summer     ,Rice,10261,1133
+Assam,CACHAR,2005,Winter     ,Rice,90194,6344
+Assam,CACHAR,2006,Autumn     ,Rice,4070,98
+Assam,CACHAR,2006,Summer     ,Rice,7819,1037
+Assam,CACHAR,2006,Winter     ,Rice,89689,16238
+Assam,CACHAR,2007,Autumn     ,Rice,10130,90
+Assam,CACHAR,2007,Summer     ,Rice,9680,1805
+Assam,CACHAR,2007,Winter     ,Rice,79842,13808
+Assam,CACHAR,2008,Autumn     ,Rice,8350,86
+Assam,CACHAR,2008,Summer     ,Rice,9560,2821
+Assam,CACHAR,2008,Winter     ,Rice,93610,16457
+Assam,CACHAR,2009,Autumn     ,Rice,8276,87
+Assam,CACHAR,2009,Summer     ,Rice,8902,2435
+Assam,CACHAR,2009,Winter     ,Rice,93082,16087
+Assam,CACHAR,2010,Autumn     ,Rice,8359,82
+Assam,CACHAR,2010,Summer     ,Rice,7332,36756
+Assam,CACHAR,2010,Winter     ,Rice,88908,13116
+Assam,CACHAR,2011,Autumn     ,Rice,7700,87
+Assam,CACHAR,2011,Summer     ,Rice,7990,49983
+Assam,CACHAR,2011,Winter     ,Rice,90682,15518
+Assam,CACHAR,2012,Autumn     ,Rice,7680,99
+Assam,CACHAR,2012,Summer     ,Rice,7547,51437
+Assam,CACHAR,2012,Winter     ,Rice,91912,10288
+Assam,CACHAR,2013,Autumn     ,Rice,6430,105
+Assam,CACHAR,2013,Summer     ,Rice,7700,54692
+Assam,CACHAR,2013,Winter     ,Rice,82347,13796
+Assam,CACHAR,2014,Autumn     ,Rice,6752,141
+Assam,CACHAR,2014,Summer     ,Rice,8235,55919
+Assam,CACHAR,2014,Winter     ,Rice,92895,8313
+Assam,CHIRANG,2005,Autumn     ,Rice,10417,147
+Assam,CHIRANG,2005,Summer     ,Rice,3438,6382
+Assam,CHIRANG,2005,Winter     ,Rice,29259,13303
+Assam,CHIRANG,2006,Autumn     ,Rice,15038,133
+Assam,CHIRANG,2006,Summer     ,Rice,3757,1541
+Assam,CHIRANG,2006,Winter     ,Rice,32687,12476
+Assam,CHIRANG,2007,Autumn     ,Rice,15899,99
+Assam,CHIRANG,2007,Summer     ,Rice,3182,1865
+Assam,CHIRANG,2007,Winter     ,Rice,34552,8786
+Assam,CHIRANG,2008,Autumn     ,Rice,14608,107
+Assam,CHIRANG,2008,Summer     ,Rice,3419,2451
+Assam,CHIRANG,2008,Winter     ,Rice,33354,12473
+Assam,CHIRANG,2009,Autumn     ,Rice,14635,114
+Assam,CHIRANG,2009,Summer     ,Rice,3453,2496
+Assam,CHIRANG,2009,Winter     ,Rice,33708,15765
+Assam,CHIRANG,2010,Autumn     ,Rice,15372,274
+Assam,CHIRANG,2010,Summer     ,Rice,1713,5258
+Assam,CHIRANG,2010,Winter     ,Rice,35740,17161
+Assam,CHIRANG,2011,Autumn     ,Rice,15177,246
+Assam,CHIRANG,2011,Summer     ,Rice,442,6912
+Assam,CHIRANG,2011,Winter     ,Rice,35480,22966
+Assam,CHIRANG,2012,Autumn     ,Rice,17722,342
+Assam,CHIRANG,2012,Summer     ,Rice,3262,10652
+Assam,CHIRANG,2012,Winter     ,Rice,36176,11707
+Assam,CHIRANG,2013,Autumn     ,Rice,8879,216
+Assam,CHIRANG,2013,Summer     ,Rice,2727,12562
+Assam,CHIRANG,2013,Winter     ,Rice,35250,6553
+Assam,CHIRANG,2014,Autumn     ,Rice,6255,236
+Assam,CHIRANG,2014,Summer     ,Rice,3413,14356
+Assam,CHIRANG,2014,Winter     ,Rice,35857,40252
+Assam,DARRANG,1997,Autumn     ,Rice,68782,257
+Assam,DARRANG,1997,Summer     ,Rice,7767,1710
+Assam,DARRANG,1997,Winter     ,Rice,93133,59143
+Assam,DARRANG,1998,Autumn     ,Rice,68800,256
+Assam,DARRANG,1998,Summer     ,Rice,7795,2050
+Assam,DARRANG,1998,Winter     ,Rice,82291,61025
+Assam,DARRANG,1999,Autumn     ,Rice,68700,301
+Assam,DARRANG,1999,Summer     ,Rice,13501,3148
+Assam,DARRANG,1999,Winter     ,Rice,104375,71065
+Assam,DARRANG,2000,Autumn     ,Rice,80258,284
+Assam,DARRANG,2000,Summer     ,Rice,16100,2976
+Assam,DARRANG,2000,Winter     ,Rice,104475,86816
+Assam,DARRANG,2001,Autumn     ,Rice,77720,303
+Assam,DARRANG,2001,Summer     ,Rice,16470,3842
+Assam,DARRANG,2001,Winter     ,Rice,94000,62640
+Assam,DARRANG,2002,Autumn     ,Rice,62722,291
+Assam,DARRANG,2002,Summer     ,Rice,16000,3052
+Assam,DARRANG,2002,Winter     ,Rice,91815,60241
+Assam,DARRANG,2003,Autumn     ,Rice,58340,295
+Assam,DARRANG,2003,Summer     ,Rice,13159,3036
+Assam,DARRANG,2003,Winter     ,Rice,85117,33992
+Assam,DARRANG,2004,Autumn     ,Rice,60000,247
+Assam,DARRANG,2004,Summer     ,Rice,10581,8778000
+Assam,DARRANG,2004,Winter     ,Rice,74305,43188
+Assam,DARRANG,2005,Autumn     ,Rice,33000,135
+Assam,DARRANG,2005,Summer     ,Rice,1527,3645
+Assam,DARRANG,2005,Winter     ,Rice,40639,22279
+Assam,DARRANG,2006,Autumn     ,Rice,19861,79
+Assam,DARRANG,2006,Summer     ,Rice,4452,2005
+Assam,DARRANG,2006,Winter     ,Rice,26025,15832
+Assam,DARRANG,2007,Autumn     ,Rice,13275,43
+Assam,DARRANG,2007,Summer     ,Rice,12328,797
+Assam,DARRANG,2007,Winter     ,Rice,33086,16859
+Assam,DARRANG,2008,Autumn     ,Rice,12362,60
+Assam,DARRANG,2008,Summer     ,Rice,19078,673
+Assam,DARRANG,2008,Winter     ,Rice,48213,10676
+Assam,DARRANG,2009,Autumn     ,Rice,14624,35
+Assam,DARRANG,2009,Summer     ,Rice,19192,1083
+Assam,DARRANG,2009,Winter     ,Rice,45540,20783
+Assam,DARRANG,2010,Autumn     ,Rice,14941,85
+Assam,DARRANG,2010,Summer     ,Rice,21000,21678
+Assam,DARRANG,2010,Winter     ,Rice,49360,19359
+Assam,DARRANG,2011,Autumn     ,Rice,11823,86
+Assam,DARRANG,2011,Summer     ,Rice,19394,23377
+Assam,DARRANG,2011,Winter     ,Rice,48505,10527
+Assam,DARRANG,2012,Autumn     ,Rice,7620,122
+Assam,DARRANG,2012,Summer     ,Rice,19850,23788
+Assam,DARRANG,2012,Winter     ,Rice,48808,4050
+Assam,DARRANG,2013,Autumn     ,Rice,3616,393
+Assam,DARRANG,2013,Summer     ,Rice,17837,26334
+Assam,DARRANG,2013,Winter     ,Rice,48236,4990
+Assam,DARRANG,2014,Autumn     ,Rice,3304,126
+Assam,DARRANG,2014,Summer     ,Rice,17356,23964
+Assam,DARRANG,2014,Winter     ,Rice,48413,7036
+Assam,DHEMAJI,1997,Autumn     ,Rice,12750,34
+Assam,DHEMAJI,1997,Summer     ,Rice,4525,756
+Assam,DHEMAJI,1997,Winter     ,Rice,44725,7700
+Assam,DHEMAJI,1998,Autumn     ,Rice,11900,26
+Assam,DHEMAJI,1998,Summer     ,Rice,5891,882
+Assam,DHEMAJI,1998,Winter     ,Rice,33282,12823
+Assam,DHEMAJI,1999,Autumn     ,Rice,14198,26
+Assam,DHEMAJI,1999,Summer     ,Rice,6385,750
+Assam,DHEMAJI,1999,Winter     ,Rice,51348,7165
+Assam,DHEMAJI,2000,Autumn     ,Rice,10633,23
+Assam,DHEMAJI,2000,Summer     ,Rice,7030,1130
+Assam,DHEMAJI,2000,Winter     ,Rice,54511,10022
+Assam,DHEMAJI,2001,Autumn     ,Rice,12135,23
+Assam,DHEMAJI,2001,Summer     ,Rice,7572,1588
+Assam,DHEMAJI,2001,Winter     ,Rice,52550,9987
+Assam,DHEMAJI,2002,Autumn     ,Rice,12770,23
+Assam,DHEMAJI,2002,Summer     ,Rice,7270,765
+Assam,DHEMAJI,2002,Winter     ,Rice,50420,10108
+Assam,DHEMAJI,2003,Autumn     ,Rice,12577,23
+Assam,DHEMAJI,2003,Summer     ,Rice,7305,729
+Assam,DHEMAJI,2003,Winter     ,Rice,51920,5762
+Assam,DHEMAJI,2004,Autumn     ,Rice,11500,23
+Assam,DHEMAJI,2004,Summer     ,Rice,6282,348000
+Assam,DHEMAJI,2004,Winter     ,Rice,56610,5010
+Assam,DHEMAJI,2005,Autumn     ,Rice,11309,31
+Assam,DHEMAJI,2005,Summer     ,Rice,3394,1163
+Assam,DHEMAJI,2005,Winter     ,Rice,67975,6822
+Assam,DHEMAJI,2006,Autumn     ,Rice,9174,25
+Assam,DHEMAJI,2006,Summer     ,Rice,3446,1434
+Assam,DHEMAJI,2006,Winter     ,Rice,65130,5711
+Assam,DHEMAJI,2007,Autumn     ,Rice,7944,23
+Assam,DHEMAJI,2007,Summer     ,Rice,3195,795
+Assam,DHEMAJI,2007,Winter     ,Rice,63270,4935
+Assam,DHEMAJI,2008,Autumn     ,Rice,7202,23
+Assam,DHEMAJI,2008,Summer     ,Rice,1703,444
+Assam,DHEMAJI,2008,Winter     ,Rice,63280,5733
+Assam,DHEMAJI,2009,Autumn     ,Rice,7823,23
+Assam,DHEMAJI,2009,Summer     ,Rice,4462,747
+Assam,DHEMAJI,2009,Winter     ,Rice,59652,6964
+Assam,DHEMAJI,2010,Autumn     ,Rice,8915,23
+Assam,DHEMAJI,2010,Summer     ,Rice,3150,19040
+Assam,DHEMAJI,2010,Winter     ,Rice,64892,7164
+Assam,DHEMAJI,2011,Autumn     ,Rice,9305,29
+Assam,DHEMAJI,2011,Summer     ,Rice,2172,10099
+Assam,DHEMAJI,2011,Winter     ,Rice,67265,12021
+Assam,DHEMAJI,2012,Autumn     ,Rice,9075,27
+Assam,DHEMAJI,2012,Summer     ,Rice,2915,13173
+Assam,DHEMAJI,2012,Winter     ,Rice,68005,14723
+Assam,DHEMAJI,2013,Autumn     ,Rice,9630,34
+Assam,DHEMAJI,2013,Summer     ,Rice,4420,23958
+Assam,DHEMAJI,2013,Winter     ,Rice,68300,12595
+Assam,DHEMAJI,2014,Autumn     ,Rice,9379,32
+Assam,DHEMAJI,2014,Summer     ,Rice,8500,24781
+Assam,DHEMAJI,2014,Winter     ,Rice,67660,25030
+Assam,DHUBRI,1997,Autumn     ,Rice,62078,133
+Assam,DHUBRI,1997,Summer     ,Rice,21085,979
+Assam,DHUBRI,1997,Winter     ,Rice,54249,42143
+Assam,DHUBRI,1998,Autumn     ,Rice,61130,281
+Assam,DHUBRI,1998,Summer     ,Rice,32483,1512
+Assam,DHUBRI,1998,Winter     ,Rice,41378,31885
+Assam,DHUBRI,1999,Autumn     ,Rice,53533,244
+Assam,DHUBRI,1999,Summer     ,Rice,42747,1685
+Assam,DHUBRI,1999,Winter     ,Rice,55397,20677
+Assam,DHUBRI,2000,Autumn     ,Rice,34476,238
+Assam,DHUBRI,2000,Summer     ,Rice,42849,1837
+Assam,DHUBRI,2000,Winter     ,Rice,55247,25597
+Assam,DHUBRI,2001,Autumn     ,Rice,33201,282
+Assam,DHUBRI,2001,Summer     ,Rice,47775,1880
+Assam,DHUBRI,2001,Winter     ,Rice,50035,24945
+Assam,DHUBRI,2002,Autumn     ,Rice,28160,246
+Assam,DHUBRI,2002,Summer     ,Rice,47608,2117
+Assam,DHUBRI,2002,Winter     ,Rice,53147,18024
+Assam,DHUBRI,2003,Autumn     ,Rice,25280,251
+Assam,DHUBRI,2003,Summer     ,Rice,47908,1412
+Assam,DHUBRI,2003,Winter     ,Rice,52703,18005
+Assam,DHUBRI,2004,Autumn     ,Rice,24533,224
+Assam,DHUBRI,2004,Summer     ,Rice,47750,5957000
+Assam,DHUBRI,2004,Winter     ,Rice,33680,24361
+Assam,DHUBRI,2005,Autumn     ,Rice,20905,167
+Assam,DHUBRI,2005,Summer     ,Rice,36775,3007
+Assam,DHUBRI,2005,Winter     ,Rice,35593,8264
+Assam,DHUBRI,2006,Autumn     ,Rice,18171,108
+Assam,DHUBRI,2006,Summer     ,Rice,37514,1138
+Assam,DHUBRI,2006,Winter     ,Rice,33278,15300
+Assam,DHUBRI,2007,Autumn     ,Rice,17727,106
+Assam,DHUBRI,2007,Summer     ,Rice,38443,1037
+Assam,DHUBRI,2007,Winter     ,Rice,32955,21135
+Assam,DHUBRI,2008,Autumn     ,Rice,16741,100
+Assam,DHUBRI,2008,Summer     ,Rice,53404,1413
+Assam,DHUBRI,2008,Winter     ,Rice,29158,7945
+Assam,DHUBRI,2009,Autumn     ,Rice,13235,75
+Assam,DHUBRI,2009,Summer     ,Rice,53822,602
+Assam,DHUBRI,2009,Winter     ,Rice,28871,4629
+Assam,DHUBRI,2010,Autumn     ,Rice,7488,71
+Assam,DHUBRI,2010,Summer     ,Rice,54200,14358
+Assam,DHUBRI,2010,Winter     ,Rice,33097,2710
+Assam,DHUBRI,2011,Autumn     ,Rice,4380,69
+Assam,DHUBRI,2011,Summer     ,Rice,52700,14539
+Assam,DHUBRI,2011,Winter     ,Rice,35500,2341
+Assam,DHUBRI,2012,Autumn     ,Rice,4298,187
+Assam,DHUBRI,2012,Summer     ,Rice,53050,17119
+Assam,DHUBRI,2012,Winter     ,Rice,35600,5349
+Assam,DHUBRI,2013,Autumn     ,Rice,4169,67
+Assam,DHUBRI,2013,Summer     ,Rice,47295,17629
+Assam,DHUBRI,2013,Winter     ,Rice,35140,3852
+Assam,DHUBRI,2014,Autumn     ,Rice,4075,64
+Assam,DHUBRI,2014,Summer     ,Rice,51015,17937
+Assam,DHUBRI,2014,Winter     ,Rice,30968,13674
+Assam,DIBRUGARH,1997,Autumn     ,Rice,10448,43
+Assam,DIBRUGARH,1997,Summer     ,Rice,314,2615
+Assam,DIBRUGARH,1997,Winter     ,Rice,77456,15544
+Assam,DIBRUGARH,1998,Autumn     ,Rice,8820,56
+Assam,DIBRUGARH,1998,Summer     ,Rice,428,2887
+Assam,DIBRUGARH,1998,Winter     ,Rice,75380,12257
+Assam,DIBRUGARH,1999,Autumn     ,Rice,7271,56
+Assam,DIBRUGARH,1999,Summer     ,Rice,446,2354
+Assam,DIBRUGARH,1999,Winter     ,Rice,77358,13676
+Assam,DIBRUGARH,2000,Autumn     ,Rice,8990,140
+Assam,DIBRUGARH,2000,Summer     ,Rice,438,2545
+Assam,DIBRUGARH,2000,Winter     ,Rice,77733,8709
+Assam,DIBRUGARH,2001,Autumn     ,Rice,8661,142
+Assam,DIBRUGARH,2001,Summer     ,Rice,502,2469
+Assam,DIBRUGARH,2001,Winter     ,Rice,76890,10431
+Assam,DIBRUGARH,2002,Autumn     ,Rice,8576,143
+Assam,DIBRUGARH,2002,Summer     ,Rice,88,2685
+Assam,DIBRUGARH,2002,Winter     ,Rice,77726,7163
+Assam,DIBRUGARH,2003,Autumn     ,Rice,5828,143
+Assam,DIBRUGARH,2003,Summer     ,Rice,90,4280
+Assam,DIBRUGARH,2003,Winter     ,Rice,77765,5907
+Assam,DIBRUGARH,2004,Autumn     ,Rice,5828,83
+Assam,DIBRUGARH,2004,Summer     ,Rice,70,78000
+Assam,DIBRUGARH,2004,Winter     ,Rice,76902,437
+Assam,DIBRUGARH,2005,Autumn     ,Rice,373,39
+Assam,DIBRUGARH,2005,Summer     ,Rice,185,2081
+Assam,DIBRUGARH,2005,Winter     ,Rice,79228,745
+Assam,DIBRUGARH,2006,Autumn     ,Rice,575,11
+Assam,DIBRUGARH,2006,Summer     ,Rice,54,1461
+Assam,DIBRUGARH,2006,Winter     ,Rice,71300,187
+Assam,DIBRUGARH,2007,Autumn     ,Rice,267,35
+Assam,DIBRUGARH,2007,Summer     ,Rice,17,1266
+Assam,DIBRUGARH,2007,Winter     ,Rice,58562,203
+Assam,DIBRUGARH,2008,Autumn     ,Rice,258,14
+Assam,DIBRUGARH,2008,Summer     ,Rice,18,1096
+Assam,DIBRUGARH,2008,Winter     ,Rice,70268,93
+Assam,DIBRUGARH,2009,Autumn     ,Rice,107,41
+Assam,DIBRUGARH,2009,Summer     ,Rice,75,1569
+Assam,DIBRUGARH,2009,Winter     ,Rice,74832,118
+Assam,DIBRUGARH,2010,Autumn     ,Rice,102,48
+Assam,DIBRUGARH,2010,Summer     ,Rice,136,9305
+Assam,DIBRUGARH,2010,Winter     ,Rice,75859,116
+Assam,DIBRUGARH,2011,Autumn     ,Rice,95,28
+Assam,DIBRUGARH,2011,Summer     ,Rice,310,10082
+Assam,DIBRUGARH,2011,Winter     ,Rice,77004,363
+Assam,DIBRUGARH,2012,Autumn     ,Rice,280,33
+Assam,DIBRUGARH,2012,Summer     ,Rice,415,12475
+Assam,DIBRUGARH,2012,Winter     ,Rice,76892,325
+Assam,DIBRUGARH,2013,Autumn     ,Rice,188,42
+Assam,DIBRUGARH,2013,Summer     ,Rice,403,12215
+Assam,DIBRUGARH,2013,Winter     ,Rice,77479,477
+Assam,DIBRUGARH,2014,Autumn     ,Rice,333,47
+Assam,DIBRUGARH,2014,Summer     ,Rice,1256,12735
+Assam,DIBRUGARH,2014,Winter     ,Rice,73139,5393
+Assam,DIMA HASAO,1997,Autumn     ,Rice,5984,181
+Assam,DIMA HASAO,1997,Summer     ,Rice,52,264
+Assam,DIMA HASAO,1997,Winter     ,Rice,8117,8091
+Assam,DIMA HASAO,1998,Autumn     ,Rice,5886,89
+Assam,DIMA HASAO,1998,Summer     ,Rice,36,226
+Assam,DIMA HASAO,1998,Winter     ,Rice,5938,6945
+Assam,DIMA HASAO,1999,Autumn     ,Rice,5646,159
+Assam,DIMA HASAO,1999,Summer     ,Rice,36,262
+Assam,DIMA HASAO,1999,Winter     ,Rice,8147,6345
+Assam,DIMA HASAO,2000,Autumn     ,Rice,5772,186
+Assam,DIMA HASAO,2000,Summer     ,Rice,34,299
+Assam,DIMA HASAO,2000,Winter     ,Rice,8139,7800
+Assam,DIMA HASAO,2001,Autumn     ,Rice,5777,186
+Assam,DIMA HASAO,2001,Summer     ,Rice,25,283
+Assam,DIMA HASAO,2001,Winter     ,Rice,8244,8446
+Assam,DIMA HASAO,2002,Autumn     ,Rice,6015,188
+Assam,DIMA HASAO,2002,Summer     ,Rice,32,233
+Assam,DIMA HASAO,2002,Winter     ,Rice,8400,6131
+Assam,DIMA HASAO,2003,Autumn     ,Rice,4898,171
+Assam,DIMA HASAO,2003,Summer     ,Rice,27,443
+Assam,DIMA HASAO,2003,Winter     ,Rice,7900,8329
+Assam,DIMA HASAO,2004,Autumn     ,Rice,6028,180
+Assam,DIMA HASAO,2004,Summer     ,Rice,20,483000
+Assam,DIMA HASAO,2004,Winter     ,Rice,8350,8530
+Assam,DIMA HASAO,2005,Autumn     ,Rice,6214,180
+Assam,DIMA HASAO,2005,Summer     ,Rice,19,357
+Assam,DIMA HASAO,2005,Winter     ,Rice,8255,7679
+Assam,DIMA HASAO,2006,Autumn     ,Rice,6219,180
+Assam,DIMA HASAO,2006,Summer     ,Rice,14,283
+Assam,DIMA HASAO,2006,Winter     ,Rice,7755,9106
+Assam,DIMA HASAO,2007,Autumn     ,Rice,6228,187
+Assam,DIMA HASAO,2007,Summer     ,Rice,11,181
+Assam,DIMA HASAO,2007,Winter     ,Rice,8292,8800
+Assam,DIMA HASAO,2008,Autumn     ,Rice,6224,184
+Assam,DIMA HASAO,2008,Summer     ,Rice,25,52
+Assam,DIMA HASAO,2008,Winter     ,Rice,8290,8947
+Assam,DIMA HASAO,2009,Autumn     ,Rice,6441,245
+Assam,DIMA HASAO,2009,Summer     ,Rice,17,166
+Assam,DIMA HASAO,2009,Winter     ,Rice,9520,10363
+Assam,DIMA HASAO,2010,Autumn     ,Rice,6405,204
+Assam,DIMA HASAO,2010,Summer     ,Rice,14,12688
+Assam,DIMA HASAO,2010,Winter     ,Rice,8828,8923
+Assam,DIMA HASAO,2011,Autumn     ,Rice,6590,200
+Assam,DIMA HASAO,2011,Winter     ,Rice,8980,11327
+Assam,DIMA HASAO,2012,Autumn     ,Rice,6548,313
+Assam,DIMA HASAO,2012,Winter     ,Rice,9645,11477
+Assam,DIMA HASAO,2013,Autumn     ,Rice,6670,343
+Assam,DIMA HASAO,2013,Summer     ,Rice,28,26787
+Assam,DIMA HASAO,2013,Winter     ,Rice,9125,10300
+Assam,DIMA HASAO,2014,Autumn     ,Rice,5607,414
+Assam,DIMA HASAO,2014,Winter     ,Rice,9093,17189
+Assam,GOALPARA,1997,Autumn     ,Rice,22550,322
+Assam,GOALPARA,1997,Summer     ,Rice,7416,1666
+Assam,GOALPARA,1997,Winter     ,Rice,41750,19174
+Assam,GOALPARA,1998,Autumn     ,Rice,18194,332
+Assam,GOALPARA,1998,Summer     ,Rice,11000,1422
+Assam,GOALPARA,1998,Winter     ,Rice,38285,23239
+Assam,GOALPARA,1999,Autumn     ,Rice,18042,312
+Assam,GOALPARA,1999,Summer     ,Rice,12000,1965
+Assam,GOALPARA,1999,Winter     ,Rice,41124,20040
+Assam,GOALPARA,2000,Autumn     ,Rice,17000,331
+Assam,GOALPARA,2000,Summer     ,Rice,12600,5110
+Assam,GOALPARA,2000,Winter     ,Rice,40612,19234
+Assam,GOALPARA,2001,Autumn     ,Rice,16692,312
+Assam,GOALPARA,2001,Summer     ,Rice,12600,1990
+Assam,GOALPARA,2001,Winter     ,Rice,44000,17221
+Assam,GOALPARA,2002,Autumn     ,Rice,15766,224
+Assam,GOALPARA,2002,Summer     ,Rice,12700,3028
+Assam,GOALPARA,2002,Winter     ,Rice,43850,16436
+Assam,GOALPARA,2003,Autumn     ,Rice,15567,209
+Assam,GOALPARA,2003,Summer     ,Rice,12855,2896
+Assam,GOALPARA,2003,Winter     ,Rice,44213,14578
+Assam,GOALPARA,2004,Autumn     ,Rice,15560,225
+Assam,GOALPARA,2004,Summer     ,Rice,16320,5742000
+Assam,GOALPARA,2004,Winter     ,Rice,39497,17937
+Assam,GOALPARA,2005,Autumn     ,Rice,15714,229
+Assam,GOALPARA,2005,Summer     ,Rice,15714,4028
+Assam,GOALPARA,2005,Winter     ,Rice,46268,15165
+Assam,GOALPARA,2006,Autumn     ,Rice,15213,234
+Assam,GOALPARA,2006,Summer     ,Rice,17500,3976
+Assam,GOALPARA,2006,Winter     ,Rice,39500,16777
+Assam,GOALPARA,2007,Autumn     ,Rice,15250,379
+Assam,GOALPARA,2007,Summer     ,Rice,18100,3790
+Assam,GOALPARA,2007,Winter     ,Rice,45050,20569
+Assam,GOALPARA,2008,Autumn     ,Rice,15800,379
+Assam,GOALPARA,2008,Summer     ,Rice,19500,4168
+Assam,GOALPARA,2008,Winter     ,Rice,48010,13356
+Assam,GOALPARA,2009,Autumn     ,Rice,12231,379
+Assam,GOALPARA,2009,Summer     ,Rice,22350,4609
+Assam,GOALPARA,2009,Winter     ,Rice,47127,12715
+Assam,GOALPARA,2010,Autumn     ,Rice,10448,375
+Assam,GOALPARA,2010,Summer     ,Rice,24524,44628
+Assam,GOALPARA,2010,Winter     ,Rice,48167,10501
+Assam,GOALPARA,2011,Autumn     ,Rice,8690,219
+Assam,GOALPARA,2011,Summer     ,Rice,19000,64043
+Assam,GOALPARA,2011,Winter     ,Rice,49000,11552
+Assam,GOALPARA,2012,Autumn     ,Rice,8410,266
+Assam,GOALPARA,2012,Summer     ,Rice,25000,56396
+Assam,GOALPARA,2012,Winter     ,Rice,49200,9625
+Assam,GOALPARA,2013,Autumn     ,Rice,8624,570
+Assam,GOALPARA,2013,Summer     ,Rice,25290,74047
+Assam,GOALPARA,2013,Winter     ,Rice,49245,7552
+Assam,GOALPARA,2014,Autumn     ,Rice,8062,473
+Assam,GOALPARA,2014,Summer     ,Rice,25434,74047
+Assam,GOALPARA,2014,Winter     ,Rice,50772,3110
+Assam,GOLAGHAT,1997,Autumn     ,Rice,4427,154
+Assam,GOLAGHAT,1997,Summer     ,Rice,103,2787
+Assam,GOLAGHAT,1997,Winter     ,Rice,77675,8565
+Assam,GOLAGHAT,1998,Autumn     ,Rice,6297,184
+Assam,GOLAGHAT,1998,Summer     ,Rice,346,2244
+Assam,GOLAGHAT,1998,Winter     ,Rice,75681,7653
+Assam,GOLAGHAT,1999,Autumn     ,Rice,6595,158
+Assam,GOLAGHAT,1999,Summer     ,Rice,1778,3106
+Assam,GOLAGHAT,1999,Winter     ,Rice,76815,10656
+Assam,GOLAGHAT,2000,Autumn     ,Rice,7633,193
+Assam,GOLAGHAT,2000,Summer     ,Rice,3280,3573
+Assam,GOLAGHAT,2000,Winter     ,Rice,79371,10286
+Assam,GOLAGHAT,2001,Autumn     ,Rice,7184,194
+Assam,GOLAGHAT,2001,Summer     ,Rice,3235,3361
+Assam,GOLAGHAT,2001,Winter     ,Rice,72975,7114
+Assam,GOLAGHAT,2002,Autumn     ,Rice,5016,189
+Assam,GOLAGHAT,2002,Summer     ,Rice,3272,3557
+Assam,GOLAGHAT,2002,Winter     ,Rice,77330,8791
+Assam,GOLAGHAT,2003,Autumn     ,Rice,4820,187
+Assam,GOLAGHAT,2003,Summer     ,Rice,3325,2940
+Assam,GOLAGHAT,2003,Winter     ,Rice,77851,5378
+Assam,GOLAGHAT,2004,Autumn     ,Rice,4855,183
+Assam,GOLAGHAT,2004,Summer     ,Rice,3680,16062000
+Assam,GOLAGHAT,2004,Winter     ,Rice,74870,4349
+Assam,GOLAGHAT,2005,Autumn     ,Rice,2433,185
+Assam,GOLAGHAT,2005,Summer     ,Rice,3645,4060
+Assam,GOLAGHAT,2005,Winter     ,Rice,74250,6207
+Assam,GOLAGHAT,2006,Autumn     ,Rice,3947,109
+Assam,GOLAGHAT,2006,Summer     ,Rice,3802,3346
+Assam,GOLAGHAT,2006,Winter     ,Rice,55037,4131
+Assam,GOLAGHAT,2007,Autumn     ,Rice,2295,119
+Assam,GOLAGHAT,2007,Summer     ,Rice,3510,4070
+Assam,GOLAGHAT,2007,Winter     ,Rice,73464,2620
+Assam,GOLAGHAT,2008,Autumn     ,Rice,1480,107
+Assam,GOLAGHAT,2008,Summer     ,Rice,3560,4733
+Assam,GOLAGHAT,2008,Winter     ,Rice,75000,2651
+Assam,GOLAGHAT,2009,Autumn     ,Rice,2015,90
+Assam,GOLAGHAT,2009,Summer     ,Rice,4832,5076
+Assam,GOLAGHAT,2009,Winter     ,Rice,99859,4750
+Assam,GOLAGHAT,2010,Autumn     ,Rice,2430,106
+Assam,GOLAGHAT,2010,Summer     ,Rice,3625,43443
+Assam,GOLAGHAT,2010,Winter     ,Rice,103460,4779
+Assam,GOLAGHAT,2011,Autumn     ,Rice,2489,101
+Assam,GOLAGHAT,2011,Summer     ,Rice,4555,41340
+Assam,GOLAGHAT,2011,Winter     ,Rice,100991,2460
+Assam,GOLAGHAT,2012,Autumn     ,Rice,1971,118
+Assam,GOLAGHAT,2012,Summer     ,Rice,4435,60908
+Assam,GOLAGHAT,2012,Winter     ,Rice,117523,4432
+Assam,GOLAGHAT,2013,Autumn     ,Rice,1915,132
+Assam,GOLAGHAT,2013,Summer     ,Rice,4838,74679
+Assam,GOLAGHAT,2013,Winter     ,Rice,117398,3411
+Assam,GOLAGHAT,2014,Autumn     ,Rice,1798,133
+Assam,GOLAGHAT,2014,Summer     ,Rice,7663,71637
+Assam,GOLAGHAT,2014,Winter     ,Rice,114163,8907
+Assam,HAILAKANDI,1997,Autumn     ,Rice,6500,32
+Assam,HAILAKANDI,1997,Summer     ,Rice,750,2164
+Assam,HAILAKANDI,1997,Winter     ,Rice,35500,9663
+Assam,HAILAKANDI,1998,Autumn     ,Rice,5000,31
+Assam,HAILAKANDI,1998,Summer     ,Rice,900,4292
+Assam,HAILAKANDI,1998,Winter     ,Rice,36500,11105
+Assam,HAILAKANDI,1999,Autumn     ,Rice,6000,41
+Assam,HAILAKANDI,1999,Summer     ,Rice,1500,2689
+Assam,HAILAKANDI,1999,Winter     ,Rice,37500,14212
+Assam,HAILAKANDI,2000,Autumn     ,Rice,6500,48
+Assam,HAILAKANDI,2000,Summer     ,Rice,3000,1601
+Assam,HAILAKANDI,2000,Winter     ,Rice,35000,13470
+Assam,HAILAKANDI,2001,Autumn     ,Rice,6500,48
+Assam,HAILAKANDI,2001,Summer     ,Rice,2000,4092
+Assam,HAILAKANDI,2001,Winter     ,Rice,39000,12875
+Assam,HAILAKANDI,2002,Autumn     ,Rice,6500,48
+Assam,HAILAKANDI,2002,Summer     ,Rice,2000,916
+Assam,HAILAKANDI,2002,Winter     ,Rice,38500,10745
+Assam,HAILAKANDI,2003,Autumn     ,Rice,6000,42
+Assam,HAILAKANDI,2003,Summer     ,Rice,2100,548
+Assam,HAILAKANDI,2003,Winter     ,Rice,39000,9635
+Assam,HAILAKANDI,2004,Autumn     ,Rice,6000,42
+Assam,HAILAKANDI,2004,Summer     ,Rice,2010,768000
+Assam,HAILAKANDI,2004,Winter     ,Rice,38500,12457
+Assam,HAILAKANDI,2005,Autumn     ,Rice,6000,45
+Assam,HAILAKANDI,2005,Summer     ,Rice,1800,1118
+Assam,HAILAKANDI,2005,Winter     ,Rice,39000,4168
+Assam,HAILAKANDI,2006,Autumn     ,Rice,2200,42
+Assam,HAILAKANDI,2006,Summer     ,Rice,1350,1190
+Assam,HAILAKANDI,2006,Winter     ,Rice,39000,10823
+Assam,HAILAKANDI,2007,Autumn     ,Rice,6010,38
+Assam,HAILAKANDI,2007,Summer     ,Rice,3500,783
+Assam,HAILAKANDI,2007,Winter     ,Rice,37650,11100
+Assam,HAILAKANDI,2008,Autumn     ,Rice,5806,42
+Assam,HAILAKANDI,2008,Summer     ,Rice,3900,1425
+Assam,HAILAKANDI,2008,Winter     ,Rice,40150,12351
+Assam,HAILAKANDI,2009,Autumn     ,Rice,5619,45
+Assam,HAILAKANDI,2009,Summer     ,Rice,2916,2015
+Assam,HAILAKANDI,2009,Winter     ,Rice,38474,12776
+Assam,HAILAKANDI,2010,Autumn     ,Rice,6012,118
+Assam,HAILAKANDI,2010,Summer     ,Rice,4050,20622
+Assam,HAILAKANDI,2010,Winter     ,Rice,38011,13264
+Assam,HAILAKANDI,2011,Autumn     ,Rice,5800,111
+Assam,HAILAKANDI,2011,Summer     ,Rice,3450,31763
+Assam,HAILAKANDI,2011,Winter     ,Rice,41350,6940
+Assam,HAILAKANDI,2012,Autumn     ,Rice,3500,55
+Assam,HAILAKANDI,2012,Winter     ,Rice,42100,3287
+Assam,HAILAKANDI,2013,Autumn     ,Rice,3090,63
+Assam,HAILAKANDI,2013,Summer     ,Rice,2035,20783
+Assam,HAILAKANDI,2013,Winter     ,Rice,41550,5173
+Assam,HAILAKANDI,2014,Autumn     ,Rice,1973,62
+Assam,HAILAKANDI,2014,Summer     ,Rice,2120,17574
+Assam,HAILAKANDI,2014,Winter     ,Rice,41250,4670
+Assam,JORHAT,1997,Autumn     ,Rice,5370,12
+Assam,JORHAT,1997,Summer     ,Rice,9560,3135
+Assam,JORHAT,1997,Winter     ,Rice,84250,5570
+Assam,JORHAT,1998,Autumn     ,Rice,5100,16
+Assam,JORHAT,1998,Summer     ,Rice,4195,1059
+Assam,JORHAT,1998,Winter     ,Rice,72235,11854
+Assam,JORHAT,1999,Autumn     ,Rice,13709,16
+Assam,JORHAT,1999,Summer     ,Rice,9430,749
+Assam,JORHAT,1999,Winter     ,Rice,87876,6712
+Assam,JORHAT,2000,Autumn     ,Rice,6540,19
+Assam,JORHAT,2000,Summer     ,Rice,1203,688
+Assam,JORHAT,2000,Winter     ,Rice,84000,7157
+Assam,JORHAT,2001,Autumn     ,Rice,8312,19
+Assam,JORHAT,2001,Summer     ,Rice,765,2291
+Assam,JORHAT,2001,Winter     ,Rice,89852,3002
+Assam,JORHAT,2002,Autumn     ,Rice,4774,13
+Assam,JORHAT,2002,Summer     ,Rice,376,1374
+Assam,JORHAT,2002,Winter     ,Rice,72700,2812
+Assam,JORHAT,2003,Autumn     ,Rice,3723,11
+Assam,JORHAT,2003,Summer     ,Rice,566,992
+Assam,JORHAT,2003,Winter     ,Rice,80909,2225
+Assam,JORHAT,2004,Autumn     ,Rice,3512,10
+Assam,JORHAT,2004,Summer     ,Rice,474,2662000
+Assam,JORHAT,2004,Winter     ,Rice,77555,3786
+Assam,JORHAT,2005,Autumn     ,Rice,4775,11
+Assam,JORHAT,2005,Summer     ,Rice,6894,1117
+Assam,JORHAT,2005,Winter     ,Rice,76530,2557
+Assam,JORHAT,2006,Autumn     ,Rice,4228,11
+Assam,JORHAT,2006,Summer     ,Rice,767,1423
+Assam,JORHAT,2006,Winter     ,Rice,70121,4281
+Assam,JORHAT,2007,Autumn     ,Rice,4520,5
+Assam,JORHAT,2007,Summer     ,Rice,745,1653
+Assam,JORHAT,2007,Winter     ,Rice,81319,5561
+Assam,JORHAT,2008,Autumn     ,Rice,6175,7
+Assam,JORHAT,2008,Summer     ,Rice,349,2481
+Assam,JORHAT,2008,Winter     ,Rice,80328,6369
+Assam,JORHAT,2009,Autumn     ,Rice,5443,24
+Assam,JORHAT,2009,Summer     ,Rice,3930,1881
+Assam,JORHAT,2009,Winter     ,Rice,87672,3205
+Assam,JORHAT,2010,Autumn     ,Rice,3353,29
+Assam,JORHAT,2010,Summer     ,Rice,3864,29727
+Assam,JORHAT,2010,Winter     ,Rice,85597,2195
+Assam,JORHAT,2011,Autumn     ,Rice,3083,20
+Assam,JORHAT,2011,Summer     ,Rice,4035,33108
+Assam,JORHAT,2011,Winter     ,Rice,85627,2652
+Assam,JORHAT,2012,Autumn     ,Rice,3272,25
+Assam,JORHAT,2012,Summer     ,Rice,4953,30478
+Assam,JORHAT,2012,Winter     ,Rice,72092,3282
+Assam,JORHAT,2013,Autumn     ,Rice,3267,31
+Assam,JORHAT,2013,Summer     ,Rice,4663,28588
+Assam,JORHAT,2013,Winter     ,Rice,86181,4569
+Assam,JORHAT,2014,Autumn     ,Rice,3396,29
+Assam,JORHAT,2014,Summer     ,Rice,4632,34646
+Assam,JORHAT,2014,Winter     ,Rice,83865,38310
+Assam,KAMRUP,1997,Autumn     ,Rice,52303,329
+Assam,KAMRUP,1997,Summer     ,Rice,20849,3395
+Assam,KAMRUP,1997,Winter     ,Rice,104645,42284
+Assam,KAMRUP,1998,Autumn     ,Rice,47321,366
+Assam,KAMRUP,1998,Summer     ,Rice,21860,3011
+Assam,KAMRUP,1998,Winter     ,Rice,104737,41783
+Assam,KAMRUP,1999,Autumn     ,Rice,34903,358
+Assam,KAMRUP,1999,Summer     ,Rice,31307,3355
+Assam,KAMRUP,1999,Winter     ,Rice,103004,39817
+Assam,KAMRUP,2000,Autumn     ,Rice,31958,366
+Assam,KAMRUP,2000,Summer     ,Rice,44053,4407
+Assam,KAMRUP,2000,Winter     ,Rice,102850,28186
+Assam,KAMRUP,2001,Autumn     ,Rice,28748,342
+Assam,KAMRUP,2001,Summer     ,Rice,44836,3505
+Assam,KAMRUP,2001,Winter     ,Rice,98378,26504
+Assam,KAMRUP,2002,Autumn     ,Rice,28235,296
+Assam,KAMRUP,2002,Summer     ,Rice,44981,2232
+Assam,KAMRUP,2002,Winter     ,Rice,95669,30147
+Assam,KAMRUP,2003,Autumn     ,Rice,28029,285
+Assam,KAMRUP,2003,Summer     ,Rice,39805,6073
+Assam,KAMRUP,2003,Winter     ,Rice,97142,11482
+Assam,KAMRUP,2004,Autumn     ,Rice,28014,317
+Assam,KAMRUP,2004,Summer     ,Rice,24210,57405000
+Assam,KAMRUP,2004,Winter     ,Rice,93947,15507
+Assam,KAMRUP,2005,Autumn     ,Rice,12256,239
+Assam,KAMRUP,2005,Summer     ,Rice,32020,6140
+Assam,KAMRUP,2005,Winter     ,Rice,80078,14828
+Assam,KAMRUP,2006,Autumn     ,Rice,16532,508
+Assam,KAMRUP,2006,Summer     ,Rice,29985,2786
+Assam,KAMRUP,2006,Winter     ,Rice,43658,16767
+Assam,KAMRUP,2007,Autumn     ,Rice,14686,145
+Assam,KAMRUP,2007,Summer     ,Rice,34128,5780
+Assam,KAMRUP,2007,Winter     ,Rice,69425,17151
+Assam,KAMRUP,2008,Autumn     ,Rice,14055,117
+Assam,KAMRUP,2008,Summer     ,Rice,35868,4634
+Assam,KAMRUP,2008,Winter     ,Rice,72315,11950
+Assam,KAMRUP,2009,Autumn     ,Rice,13757,136
+Assam,KAMRUP,2009,Summer     ,Rice,34853,7428
+Assam,KAMRUP,2009,Winter     ,Rice,69798,23004
+Assam,KAMRUP,2010,Autumn     ,Rice,14012,128
+Assam,KAMRUP,2010,Summer     ,Rice,35022,34169
+Assam,KAMRUP,2010,Winter     ,Rice,69839,18773
+Assam,KAMRUP,2011,Autumn     ,Rice,13835,145
+Assam,KAMRUP,2011,Summer     ,Rice,34899,37736
+Assam,KAMRUP,2011,Winter     ,Rice,73996,10189
+Assam,KAMRUP,2012,Autumn     ,Rice,13284,168
+Assam,KAMRUP,2012,Summer     ,Rice,36866,39771
+Assam,KAMRUP,2012,Winter     ,Rice,66688,15175
+Assam,KAMRUP,2013,Autumn     ,Rice,13511,183
+Assam,KAMRUP,2013,Summer     ,Rice,36808,44786
+Assam,KAMRUP,2013,Winter     ,Rice,71020,13988
+Assam,KAMRUP,2014,Autumn     ,Rice,9246,173
+Assam,KAMRUP,2014,Summer     ,Rice,36661,43041
+Assam,KAMRUP,2014,Winter     ,Rice,67720,1450
+Assam,KAMRUP METRO,2005,Autumn     ,Rice,1121,10
+Assam,KAMRUP METRO,2005,Summer     ,Rice,7063,4907
+Assam,KAMRUP METRO,2005,Winter     ,Rice,10982,1257
+Assam,KAMRUP METRO,2006,Autumn     ,Rice,1421,220
+Assam,KAMRUP METRO,2006,Summer     ,Rice,7667,304
+Assam,KAMRUP METRO,2006,Winter     ,Rice,14195,3510
+Assam,KAMRUP METRO,2007,Autumn     ,Rice,1984,60
+Assam,KAMRUP METRO,2007,Summer     ,Rice,7890,456
+Assam,KAMRUP METRO,2007,Winter     ,Rice,15281,823
+Assam,KAMRUP METRO,2008,Autumn     ,Rice,1250,37
+Assam,KAMRUP METRO,2008,Summer     ,Rice,7960,831
+Assam,KAMRUP METRO,2008,Winter     ,Rice,20255,1013
+Assam,KAMRUP METRO,2009,Autumn     ,Rice,1132,28
+Assam,KAMRUP METRO,2009,Summer     ,Rice,7960,1393
+Assam,KAMRUP METRO,2009,Winter     ,Rice,18715,2212
+Assam,KAMRUP METRO,2010,Autumn     ,Rice,1120,38
+Assam,KAMRUP METRO,2010,Summer     ,Rice,8020,7530
+Assam,KAMRUP METRO,2010,Winter     ,Rice,20193,1480
+Assam,KAMRUP METRO,2011,Autumn     ,Rice,1211,32
+Assam,KAMRUP METRO,2011,Summer     ,Rice,8050,7912
+Assam,KAMRUP METRO,2011,Winter     ,Rice,20500,1169
+Assam,KAMRUP METRO,2012,Autumn     ,Rice,1200,36
+Assam,KAMRUP METRO,2012,Summer     ,Rice,8040,8722
+Assam,KAMRUP METRO,2012,Winter     ,Rice,20348,1181
+Assam,KAMRUP METRO,2013,Autumn     ,Rice,895,36
+Assam,KAMRUP METRO,2013,Summer     ,Rice,7990,9534
+Assam,KAMRUP METRO,2013,Winter     ,Rice,20343,1208
+Assam,KAMRUP METRO,2014,Autumn     ,Rice,845,40
+Assam,KAMRUP METRO,2014,Summer     ,Rice,7967,11175
+Assam,KAMRUP METRO,2014,Winter     ,Rice,20398,7833
+Assam,KARBI ANGLONG,1997,Autumn     ,Rice,10354,682
+Assam,KARBI ANGLONG,1997,Summer     ,Rice,160,988
+Assam,KARBI ANGLONG,1997,Winter     ,Rice,110191,13492
+Assam,KARBI ANGLONG,1998,Autumn     ,Rice,11471,692
+Assam,KARBI ANGLONG,1998,Summer     ,Rice,1319,509
+Assam,KARBI ANGLONG,1998,Winter     ,Rice,99094,13905
+Assam,KARBI ANGLONG,1999,Autumn     ,Rice,11471,692
+Assam,KARBI ANGLONG,1999,Summer     ,Rice,1481,766
+Assam,KARBI ANGLONG,1999,Winter     ,Rice,101518,12962
+Assam,KARBI ANGLONG,2000,Autumn     ,Rice,11498,696
+Assam,KARBI ANGLONG,2000,Summer     ,Rice,1559,739
+Assam,KARBI ANGLONG,2000,Winter     ,Rice,112691,11107
+Assam,KARBI ANGLONG,2001,Autumn     ,Rice,11507,657
+Assam,KARBI ANGLONG,2001,Summer     ,Rice,1580,1142
+Assam,KARBI ANGLONG,2001,Winter     ,Rice,111755,13203
+Assam,KARBI ANGLONG,2002,Autumn     ,Rice,11542,660
+Assam,KARBI ANGLONG,2002,Summer     ,Rice,1747,582
+Assam,KARBI ANGLONG,2002,Winter     ,Rice,112663,12052
+Assam,KARBI ANGLONG,2003,Autumn     ,Rice,10451,778
+Assam,KARBI ANGLONG,2003,Summer     ,Rice,1764,1536
+Assam,KARBI ANGLONG,2003,Winter     ,Rice,119704,10152
+Assam,KARBI ANGLONG,2004,Autumn     ,Rice,10477,782
+Assam,KARBI ANGLONG,2004,Summer     ,Rice,1824,3830000
+Assam,KARBI ANGLONG,2004,Winter     ,Rice,116951,12339
+Assam,KARBI ANGLONG,2005,Autumn     ,Rice,10498,801
+Assam,KARBI ANGLONG,2005,Summer     ,Rice,1780,689
+Assam,KARBI ANGLONG,2005,Winter     ,Rice,114930,13150
+Assam,KARBI ANGLONG,2006,Autumn     ,Rice,10498,821
+Assam,KARBI ANGLONG,2006,Summer     ,Rice,1709,1310
+Assam,KARBI ANGLONG,2006,Winter     ,Rice,111966,13524
+Assam,KARBI ANGLONG,2007,Autumn     ,Rice,10465,818
+Assam,KARBI ANGLONG,2007,Summer     ,Rice,1648,984
+Assam,KARBI ANGLONG,2007,Winter     ,Rice,110593,13415
+Assam,KARBI ANGLONG,2008,Autumn     ,Rice,10465,838
+Assam,KARBI ANGLONG,2008,Summer     ,Rice,2057,894
+Assam,KARBI ANGLONG,2008,Winter     ,Rice,113375,14104
+Assam,KARBI ANGLONG,2009,Autumn     ,Rice,10891,900
+Assam,KARBI ANGLONG,2009,Summer     ,Rice,2083,1861
+Assam,KARBI ANGLONG,2009,Winter     ,Rice,111539,15825
+Assam,KARBI ANGLONG,2010,Autumn     ,Rice,10991,910
+Assam,KARBI ANGLONG,2010,Summer     ,Rice,2058,27253
+Assam,KARBI ANGLONG,2010,Winter     ,Rice,113051,14964
+Assam,KARBI ANGLONG,2011,Autumn     ,Rice,10876,828
+Assam,KARBI ANGLONG,2011,Summer     ,Rice,2237,26772
+Assam,KARBI ANGLONG,2011,Winter     ,Rice,108452,12544
+Assam,KARBI ANGLONG,2012,Autumn     ,Rice,9170,874
+Assam,KARBI ANGLONG,2012,Summer     ,Rice,1572,29572
+Assam,KARBI ANGLONG,2012,Winter     ,Rice,117679,12411
+Assam,KARBI ANGLONG,2013,Autumn     ,Rice,9103,934
+Assam,KARBI ANGLONG,2013,Summer     ,Rice,2256,29294
+Assam,KARBI ANGLONG,2013,Winter     ,Rice,118841,9986
+Assam,KARBI ANGLONG,2014,Autumn     ,Rice,6829,1011
+Assam,KARBI ANGLONG,2014,Summer     ,Rice,2334,29980
+Assam,KARBI ANGLONG,2014,Winter     ,Rice,118833,8936
+Assam,KARIMGANJ,1997,Autumn     ,Rice,7332,40
+Assam,KARIMGANJ,1997,Summer     ,Rice,4552,1330
+Assam,KARIMGANJ,1997,Winter     ,Rice,61520,7646
+Assam,KARIMGANJ,1998,Autumn     ,Rice,7400,41
+Assam,KARIMGANJ,1998,Summer     ,Rice,3623,925
+Assam,KARIMGANJ,1998,Winter     ,Rice,63930,10546
+Assam,KARIMGANJ,1999,Autumn     ,Rice,5600,48
+Assam,KARIMGANJ,1999,Summer     ,Rice,5000,1003
+Assam,KARIMGANJ,1999,Winter     ,Rice,63400,13411
+Assam,KARIMGANJ,2000,Autumn     ,Rice,7000,38
+Assam,KARIMGANJ,2000,Summer     ,Rice,5200,827
+Assam,KARIMGANJ,2000,Winter     ,Rice,55600,10804
+Assam,KARIMGANJ,2001,Autumn     ,Rice,6000,38
+Assam,KARIMGANJ,2001,Summer     ,Rice,3191,2127
+Assam,KARIMGANJ,2001,Winter     ,Rice,63500,14389
+Assam,KARIMGANJ,2002,Autumn     ,Rice,7597,38
+Assam,KARIMGANJ,2002,Summer     ,Rice,6100,739
+Assam,KARIMGANJ,2002,Winter     ,Rice,63958,7360
+Assam,KARIMGANJ,2003,Autumn     ,Rice,4000,31
+Assam,KARIMGANJ,2003,Summer     ,Rice,4500,992
+Assam,KARIMGANJ,2003,Winter     ,Rice,63900,6230
+Assam,KARIMGANJ,2004,Autumn     ,Rice,6500,29
+Assam,KARIMGANJ,2004,Summer     ,Rice,6200,1421000
+Assam,KARIMGANJ,2004,Winter     ,Rice,61309,11474
+Assam,KARIMGANJ,2005,Autumn     ,Rice,6500,28
+Assam,KARIMGANJ,2005,Summer     ,Rice,4750,1009
+Assam,KARIMGANJ,2005,Winter     ,Rice,64100,8971
+Assam,KARIMGANJ,2006,Autumn     ,Rice,5800,32
+Assam,KARIMGANJ,2006,Summer     ,Rice,4826,906
+Assam,KARIMGANJ,2006,Winter     ,Rice,63500,8657
+Assam,KARIMGANJ,2007,Autumn     ,Rice,5900,32
+Assam,KARIMGANJ,2007,Summer     ,Rice,5306,1071
+Assam,KARIMGANJ,2007,Winter     ,Rice,65225,8683
+Assam,KARIMGANJ,2008,Autumn     ,Rice,5243,32
+Assam,KARIMGANJ,2008,Summer     ,Rice,5768,786
+Assam,KARIMGANJ,2008,Winter     ,Rice,65300,8700
+Assam,KARIMGANJ,2009,Autumn     ,Rice,5064,36
+Assam,KARIMGANJ,2009,Summer     ,Rice,5968,641
+Assam,KARIMGANJ,2009,Winter     ,Rice,64633,7580
+Assam,KARIMGANJ,2010,Autumn     ,Rice,4451,54
+Assam,KARIMGANJ,2010,Summer     ,Rice,5980,15105
+Assam,KARIMGANJ,2010,Winter     ,Rice,63143,4223
+Assam,KARIMGANJ,2011,Autumn     ,Rice,2240,66
+Assam,KARIMGANJ,2011,Summer     ,Rice,6578,15607
+Assam,KARIMGANJ,2011,Winter     ,Rice,65617,4148
+Assam,KARIMGANJ,2012,Autumn     ,Rice,2260,67
+Assam,KARIMGANJ,2012,Summer     ,Rice,6650,17507
+Assam,KARIMGANJ,2012,Winter     ,Rice,69735,1576
+Assam,KARIMGANJ,2013,Autumn     ,Rice,1255,58
+Assam,KARIMGANJ,2013,Summer     ,Rice,6850,16771
+Assam,KARIMGANJ,2013,Winter     ,Rice,69394,1616
+Assam,KARIMGANJ,2014,Autumn     ,Rice,982,66
+Assam,KARIMGANJ,2014,Summer     ,Rice,6895,17453
+Assam,KARIMGANJ,2014,Winter     ,Rice,69525,16292
+Assam,KOKRAJHAR,1997,Autumn     ,Rice,31005,148
+Assam,KOKRAJHAR,1997,Summer     ,Rice,3730,2344
+Assam,KOKRAJHAR,1997,Winter     ,Rice,57430,28510
+Assam,KOKRAJHAR,1998,Autumn     ,Rice,31872,197
+Assam,KOKRAJHAR,1998,Summer     ,Rice,3192,1706
+Assam,KOKRAJHAR,1998,Winter     ,Rice,60226,22398
+Assam,KOKRAJHAR,1999,Autumn     ,Rice,32802,181
+Assam,KOKRAJHAR,1999,Summer     ,Rice,6500,1702
+Assam,KOKRAJHAR,1999,Winter     ,Rice,60314,24281
+Assam,KOKRAJHAR,2000,Autumn     ,Rice,29790,178
+Assam,KOKRAJHAR,2000,Summer     ,Rice,7094,3671
+Assam,KOKRAJHAR,2000,Winter     ,Rice,59105,22681
+Assam,KOKRAJHAR,2001,Autumn     ,Rice,27526,184
+Assam,KOKRAJHAR,2001,Summer     ,Rice,7200,1331
+Assam,KOKRAJHAR,2001,Winter     ,Rice,56296,29067
+Assam,KOKRAJHAR,2002,Autumn     ,Rice,26827,195
+Assam,KOKRAJHAR,2002,Summer     ,Rice,7800,1484
+Assam,KOKRAJHAR,2002,Winter     ,Rice,57350,24235
+Assam,KOKRAJHAR,2003,Autumn     ,Rice,27658,199
+Assam,KOKRAJHAR,2003,Summer     ,Rice,8000,3105
+Assam,KOKRAJHAR,2003,Winter     ,Rice,59700,22415
+Assam,KOKRAJHAR,2004,Autumn     ,Rice,26393,209
+Assam,KOKRAJHAR,2004,Summer     ,Rice,8110,2436000
+Assam,KOKRAJHAR,2004,Winter     ,Rice,54496,20301
+Assam,KOKRAJHAR,2005,Autumn     ,Rice,26303,187
+Assam,KOKRAJHAR,2005,Summer     ,Rice,18588,935
+Assam,KOKRAJHAR,2005,Winter     ,Rice,64917,26479
+Assam,KOKRAJHAR,2006,Autumn     ,Rice,28316,182
+Assam,KOKRAJHAR,2006,Summer     ,Rice,18920,2201
+Assam,KOKRAJHAR,2006,Winter     ,Rice,50971,24649
+Assam,KOKRAJHAR,2007,Autumn     ,Rice,28744,177
+Assam,KOKRAJHAR,2007,Summer     ,Rice,19313,3546
+Assam,KOKRAJHAR,2007,Winter     ,Rice,60422,23163
+Assam,KOKRAJHAR,2008,Autumn     ,Rice,28265,173
+Assam,KOKRAJHAR,2008,Summer     ,Rice,10551,3143
+Assam,KOKRAJHAR,2008,Winter     ,Rice,54989,26333
+Assam,KOKRAJHAR,2009,Autumn     ,Rice,27619,273
+Assam,KOKRAJHAR,2009,Summer     ,Rice,16849,2552
+Assam,KOKRAJHAR,2009,Winter     ,Rice,58548,28902
+Assam,KOKRAJHAR,2010,Autumn     ,Rice,24663,350
+Assam,KOKRAJHAR,2010,Summer     ,Rice,17392,20733
+Assam,KOKRAJHAR,2010,Winter     ,Rice,67368,32540
+Assam,KOKRAJHAR,2011,Autumn     ,Rice,20698,364
+Assam,KOKRAJHAR,2011,Summer     ,Rice,22644,23604
+Assam,KOKRAJHAR,2011,Winter     ,Rice,62725,28393
+Assam,KOKRAJHAR,2012,Autumn     ,Rice,21910,381
+Assam,KOKRAJHAR,2012,Summer     ,Rice,20960,21848
+Assam,KOKRAJHAR,2012,Winter     ,Rice,66580,25856
+Assam,KOKRAJHAR,2013,Autumn     ,Rice,21800,372
+Assam,KOKRAJHAR,2013,Summer     ,Rice,23056,22280
+Assam,KOKRAJHAR,2013,Winter     ,Rice,64633,31130
+Assam,KOKRAJHAR,2014,Autumn     ,Rice,19867,437
+Assam,KOKRAJHAR,2014,Summer     ,Rice,23065,23700
+Assam,KOKRAJHAR,2014,Winter     ,Rice,65450,11793
+Assam,LAKHIMPUR,1997,Autumn     ,Rice,18325,50
+Assam,LAKHIMPUR,1997,Summer     ,Rice,3820,1337
+Assam,LAKHIMPUR,1997,Winter     ,Rice,85239,5844
+Assam,LAKHIMPUR,1998,Autumn     ,Rice,18100,54
+Assam,LAKHIMPUR,1998,Summer     ,Rice,8822,2767
+Assam,LAKHIMPUR,1998,Winter     ,Rice,74100,16422
+Assam,LAKHIMPUR,1999,Autumn     ,Rice,19125,49
+Assam,LAKHIMPUR,1999,Summer     ,Rice,17523,2513
+Assam,LAKHIMPUR,1999,Winter     ,Rice,87750,15228
+Assam,LAKHIMPUR,2000,Autumn     ,Rice,19850,56
+Assam,LAKHIMPUR,2000,Summer     ,Rice,16668,1649
+Assam,LAKHIMPUR,2000,Winter     ,Rice,92855,11865
+Assam,LAKHIMPUR,2001,Autumn     ,Rice,16203,47
+Assam,LAKHIMPUR,2001,Summer     ,Rice,18886,1781
+Assam,LAKHIMPUR,2001,Winter     ,Rice,84084,8326
+Assam,LAKHIMPUR,2002,Autumn     ,Rice,15969,42
+Assam,LAKHIMPUR,2002,Summer     ,Rice,16840,1064
+Assam,LAKHIMPUR,2002,Winter     ,Rice,87296,10900
+Assam,LAKHIMPUR,2003,Autumn     ,Rice,16275,44
+Assam,LAKHIMPUR,2003,Summer     ,Rice,17225,2788
+Assam,LAKHIMPUR,2003,Winter     ,Rice,80660,9635
+Assam,LAKHIMPUR,2004,Autumn     ,Rice,16105,49
+Assam,LAKHIMPUR,2004,Summer     ,Rice,16412,2062000
+Assam,LAKHIMPUR,2004,Winter     ,Rice,85910,11862
+Assam,LAKHIMPUR,2005,Autumn     ,Rice,16115,41
+Assam,LAKHIMPUR,2005,Summer     ,Rice,16520,2880
+Assam,LAKHIMPUR,2005,Winter     ,Rice,88764,13872
+Assam,LAKHIMPUR,2006,Autumn     ,Rice,18650,41
+Assam,LAKHIMPUR,2006,Summer     ,Rice,11962,3507
+Assam,LAKHIMPUR,2006,Winter     ,Rice,91203,11722
+Assam,LAKHIMPUR,2007,Autumn     ,Rice,18730,42
+Assam,LAKHIMPUR,2007,Summer     ,Rice,16266,2900
+Assam,LAKHIMPUR,2007,Winter     ,Rice,86648,4248
+Assam,LAKHIMPUR,2008,Autumn     ,Rice,15278,37
+Assam,LAKHIMPUR,2008,Summer     ,Rice,17070,2563
+Assam,LAKHIMPUR,2008,Winter     ,Rice,91240,12263
+Assam,LAKHIMPUR,2009,Autumn     ,Rice,15547,35
+Assam,LAKHIMPUR,2009,Summer     ,Rice,15572,3964
+Assam,LAKHIMPUR,2009,Winter     ,Rice,104655,11121
+Assam,LAKHIMPUR,2010,Autumn     ,Rice,15557,153
+Assam,LAKHIMPUR,2010,Summer     ,Rice,16675,53002
+Assam,LAKHIMPUR,2010,Winter     ,Rice,108330,13871
+Assam,LAKHIMPUR,2011,Autumn     ,Rice,14499,92
+Assam,LAKHIMPUR,2011,Summer     ,Rice,21815,35028
+Assam,LAKHIMPUR,2011,Winter     ,Rice,114250,16891
+Assam,LAKHIMPUR,2012,Autumn     ,Rice,14829,41
+Assam,LAKHIMPUR,2012,Summer     ,Rice,19372,37988
+Assam,LAKHIMPUR,2012,Winter     ,Rice,111100,19615
+Assam,LAKHIMPUR,2013,Autumn     ,Rice,13000,29
+Assam,LAKHIMPUR,2013,Summer     ,Rice,16400,44681
+Assam,LAKHIMPUR,2013,Winter     ,Rice,111700,10015
+Assam,LAKHIMPUR,2014,Autumn     ,Rice,6861,36
+Assam,LAKHIMPUR,2014,Summer     ,Rice,14700,44697
+Assam,LAKHIMPUR,2014,Winter     ,Rice,102605,14050
+Assam,MARIGAON,1997,Autumn     ,Rice,27010,120
+Assam,MARIGAON,1997,Summer     ,Rice,32500,821
+Assam,MARIGAON,1997,Winter     ,Rice,38500,14804
+Assam,MARIGAON,1998,Autumn     ,Rice,25500,120
+Assam,MARIGAON,1998,Summer     ,Rice,40000,1239
+Assam,MARIGAON,1998,Winter     ,Rice,45000,14812
+Assam,MARIGAON,1999,Autumn     ,Rice,19600,200
+Assam,MARIGAON,1999,Summer     ,Rice,45000,1214
+Assam,MARIGAON,1999,Winter     ,Rice,50000,11350
+Assam,MARIGAON,2000,Autumn     ,Rice,15000,200
+Assam,MARIGAON,2000,Summer     ,Rice,42000,478
+Assam,MARIGAON,2000,Winter     ,Rice,47000,7572
+Assam,MARIGAON,2001,Autumn     ,Rice,13500,160
+Assam,MARIGAON,2001,Summer     ,Rice,37565,1148
+Assam,MARIGAON,2001,Winter     ,Rice,40000,2922
+Assam,MARIGAON,2002,Autumn     ,Rice,12270,166
+Assam,MARIGAON,2002,Summer     ,Rice,40000,734
+Assam,MARIGAON,2002,Winter     ,Rice,36000,2587
+Assam,MARIGAON,2003,Autumn     ,Rice,11000,120
+Assam,MARIGAON,2003,Summer     ,Rice,36000,1358
+Assam,MARIGAON,2003,Winter     ,Rice,36450,142
+Assam,MARIGAON,2004,Autumn     ,Rice,8000,129
+Assam,MARIGAON,2004,Summer     ,Rice,38000,8132000
+Assam,MARIGAON,2004,Winter     ,Rice,27000,3589
+Assam,MARIGAON,2005,Autumn     ,Rice,7000,89
+Assam,MARIGAON,2005,Summer     ,Rice,29500,1460
+Assam,MARIGAON,2005,Winter     ,Rice,22000,3136
+Assam,MARIGAON,2006,Autumn     ,Rice,4749,34
+Assam,MARIGAON,2006,Summer     ,Rice,36745,848
+Assam,MARIGAON,2006,Winter     ,Rice,32687,1755
+Assam,MARIGAON,2007,Autumn     ,Rice,4872,32
+Assam,MARIGAON,2007,Summer     ,Rice,37950,945
+Assam,MARIGAON,2007,Winter     ,Rice,41205,4304
+Assam,MARIGAON,2008,Autumn     ,Rice,6000,35
+Assam,MARIGAON,2008,Summer     ,Rice,32806,1480
+Assam,MARIGAON,2008,Winter     ,Rice,37920,1720
+Assam,MARIGAON,2009,Autumn     ,Rice,4526,47
+Assam,MARIGAON,2009,Summer     ,Rice,42252,1347
+Assam,MARIGAON,2009,Winter     ,Rice,31617,2434
+Assam,MARIGAON,2010,Autumn     ,Rice,4084,59
+Assam,MARIGAON,2010,Summer     ,Rice,44104,21387
+Assam,MARIGAON,2010,Winter     ,Rice,41813,2864
+Assam,MARIGAON,2011,Autumn     ,Rice,3736,74
+Assam,MARIGAON,2011,Summer     ,Rice,43516,26902
+Assam,MARIGAON,2011,Winter     ,Rice,42745,5291
+Assam,MARIGAON,2012,Autumn     ,Rice,3645,98
+Assam,MARIGAON,2012,Summer     ,Rice,37729,31873
+Assam,MARIGAON,2012,Winter     ,Rice,39830,4133
+Assam,MARIGAON,2013,Autumn     ,Rice,2500,109
+Assam,MARIGAON,2013,Summer     ,Rice,41120,39860
+Assam,MARIGAON,2013,Winter     ,Rice,46495,7554
+Assam,MARIGAON,2014,Autumn     ,Rice,3272,106
+Assam,MARIGAON,2014,Summer     ,Rice,42535,38809
+Assam,MARIGAON,2014,Winter     ,Rice,44115,54868
+Assam,NAGAON,1997,Autumn     ,Rice,57555,1110
+Assam,NAGAON,1997,Summer     ,Rice,28013,4768
+Assam,NAGAON,1997,Winter     ,Rice,142724,72760
+Assam,NAGAON,1998,Autumn     ,Rice,55191,1614
+Assam,NAGAON,1998,Summer     ,Rice,41679,3767
+Assam,NAGAON,1998,Winter     ,Rice,144667,51215
+Assam,NAGAON,1999,Autumn     ,Rice,42006,1226
+Assam,NAGAON,1999,Summer     ,Rice,52650,5916
+Assam,NAGAON,1999,Winter     ,Rice,152987,67115
+Assam,NAGAON,2000,Autumn     ,Rice,48434,1073
+Assam,NAGAON,2000,Summer     ,Rice,57976,6305
+Assam,NAGAON,2000,Winter     ,Rice,141632,53449
+Assam,NAGAON,2001,Autumn     ,Rice,45551,1039
+Assam,NAGAON,2001,Summer     ,Rice,57920,8944
+Assam,NAGAON,2001,Winter     ,Rice,128485,43600
+Assam,NAGAON,2002,Autumn     ,Rice,40558,1031
+Assam,NAGAON,2002,Summer     ,Rice,59833,4947
+Assam,NAGAON,2002,Winter     ,Rice,150888,46490
+Assam,NAGAON,2003,Autumn     ,Rice,42149,1029
+Assam,NAGAON,2003,Summer     ,Rice,57686,7606
+Assam,NAGAON,2003,Winter     ,Rice,152890,35752
+Assam,NAGAON,2004,Autumn     ,Rice,34348,906
+Assam,NAGAON,2004,Summer     ,Rice,58736,39277000
+Assam,NAGAON,2004,Winter     ,Rice,135354,24868
+Assam,NAGAON,2005,Autumn     ,Rice,26300,842
+Assam,NAGAON,2005,Summer     ,Rice,51349,6622
+Assam,NAGAON,2005,Winter     ,Rice,136033,30536
+Assam,NAGAON,2006,Autumn     ,Rice,24677,843
+Assam,NAGAON,2006,Summer     ,Rice,50412,5061
+Assam,NAGAON,2006,Winter     ,Rice,94209,25429
+Assam,NAGAON,2007,Autumn     ,Rice,19065,831
+Assam,NAGAON,2007,Summer     ,Rice,42793,5398
+Assam,NAGAON,2007,Winter     ,Rice,130754,27553
+Assam,NAGAON,2008,Autumn     ,Rice,18656,303
+Assam,NAGAON,2008,Summer     ,Rice,40344,7708
+Assam,NAGAON,2008,Winter     ,Rice,136199,26630
+Assam,NAGAON,2009,Autumn     ,Rice,18811,654
+Assam,NAGAON,2009,Summer     ,Rice,48829,6516
+Assam,NAGAON,2009,Winter     ,Rice,114219,24301
+Assam,NAGAON,2010,Autumn     ,Rice,16005,662
+Assam,NAGAON,2010,Summer     ,Rice,47125,46535
+Assam,NAGAON,2010,Winter     ,Rice,121017,22093
+Assam,NAGAON,2011,Autumn     ,Rice,14540,425
+Assam,NAGAON,2011,Summer     ,Rice,41332,37399
+Assam,NAGAON,2011,Winter     ,Rice,136220,19932
+Assam,NAGAON,2012,Autumn     ,Rice,12985,375
+Assam,NAGAON,2012,Summer     ,Rice,33914,50137
+Assam,NAGAON,2012,Winter     ,Rice,131456,18018
+Assam,NAGAON,2013,Autumn     ,Rice,12088,419
+Assam,NAGAON,2013,Summer     ,Rice,44319,51853
+Assam,NAGAON,2013,Winter     ,Rice,140244,19345
+Assam,NAGAON,2014,Autumn     ,Rice,11711,492
+Assam,NAGAON,2014,Summer     ,Rice,43088,53640
+Assam,NAGAON,2014,Winter     ,Rice,146934,24528
+Assam,NALBARI,1997,Autumn     ,Rice,41500,195
+Assam,NALBARI,1997,Summer     ,Rice,1280,3795
+Assam,NALBARI,1997,Winter     ,Rice,105000,26769
+Assam,NALBARI,1998,Autumn     ,Rice,41282,186
+Assam,NALBARI,1998,Summer     ,Rice,3000,3071
+Assam,NALBARI,1998,Winter     ,Rice,99200,32093
+Assam,NALBARI,1999,Autumn     ,Rice,36770,182
+Assam,NALBARI,1999,Summer     ,Rice,3075,1337
+Assam,NALBARI,1999,Winter     ,Rice,106972,31628
+Assam,NALBARI,2000,Autumn     ,Rice,33000,182
+Assam,NALBARI,2000,Summer     ,Rice,15115,4548
+Assam,NALBARI,2000,Winter     ,Rice,106972,24642
+Assam,NALBARI,2001,Autumn     ,Rice,31500,177
+Assam,NALBARI,2001,Summer     ,Rice,15175,3788
+Assam,NALBARI,2001,Winter     ,Rice,110000,17954
+Assam,NALBARI,2002,Autumn     ,Rice,21800,180
+Assam,NALBARI,2002,Summer     ,Rice,13815,3910
+Assam,NALBARI,2002,Winter     ,Rice,109990,18014
+Assam,NALBARI,2003,Autumn     ,Rice,20500,114
+Assam,NALBARI,2003,Summer     ,Rice,17100,6073
+Assam,NALBARI,2003,Winter     ,Rice,110000,10752
+Assam,NALBARI,2004,Autumn     ,Rice,20500,192
+Assam,NALBARI,2004,Summer     ,Rice,17900,18031000
+Assam,NALBARI,2004,Winter     ,Rice,103000,10824
+Assam,NALBARI,2005,Autumn     ,Rice,13285,104
+Assam,NALBARI,2005,Summer     ,Rice,10012,4114
+Assam,NALBARI,2005,Winter     ,Rice,57959,6024
+Assam,NALBARI,2006,Autumn     ,Rice,7567,86
+Assam,NALBARI,2006,Summer     ,Rice,9000,1853
+Assam,NALBARI,2006,Winter     ,Rice,65000,7521
+Assam,NALBARI,2007,Autumn     ,Rice,7300,78
+Assam,NALBARI,2007,Summer     ,Rice,8200,1965
+Assam,NALBARI,2007,Winter     ,Rice,65000,6819
+Assam,NALBARI,2008,Autumn     ,Rice,6600,55
+Assam,NALBARI,2008,Summer     ,Rice,8750,1828
+Assam,NALBARI,2008,Winter     ,Rice,65000,2769
+Assam,NALBARI,2009,Autumn     ,Rice,5904,57
+Assam,NALBARI,2009,Summer     ,Rice,6750,2147
+Assam,NALBARI,2009,Winter     ,Rice,64025,4790
+Assam,NALBARI,2010,Autumn     ,Rice,5117,58
+Assam,NALBARI,2010,Summer     ,Rice,6950,18572
+Assam,NALBARI,2010,Winter     ,Rice,64025,3860
+Assam,NALBARI,2011,Autumn     ,Rice,4525,60
+Assam,NALBARI,2011,Summer     ,Rice,10200,19169
+Assam,NALBARI,2011,Winter     ,Rice,65000,6864
+Assam,NALBARI,2012,Autumn     ,Rice,4930,67
+Assam,NALBARI,2012,Summer     ,Rice,10932,20448
+Assam,NALBARI,2012,Winter     ,Rice,65200,5701
+Assam,NALBARI,2013,Autumn     ,Rice,4930,67
+Assam,NALBARI,2013,Summer     ,Rice,11000,20448
+Assam,NALBARI,2013,Winter     ,Rice,62000,3167
+Assam,NALBARI,2014,Autumn     ,Rice,2000,69
+Assam,NALBARI,2014,Summer     ,Rice,12375,17157
+Assam,NALBARI,2014,Winter     ,Rice,62000,2408
+Assam,SIVASAGAR,1997,Autumn     ,Rice,2512,13
+Assam,SIVASAGAR,1997,Summer     ,Rice,10,6372
+Assam,SIVASAGAR,1997,Winter     ,Rice,102181,1986
+Assam,SIVASAGAR,1998,Autumn     ,Rice,1443,13
+Assam,SIVASAGAR,1998,Summer     ,Rice,74,4597
+Assam,SIVASAGAR,1998,Winter     ,Rice,88425,2345
+Assam,SIVASAGAR,1999,Autumn     ,Rice,1835,8
+Assam,SIVASAGAR,1999,Summer     ,Rice,126,2492
+Assam,SIVASAGAR,1999,Winter     ,Rice,96019,3378
+Assam,SIVASAGAR,2000,Autumn     ,Rice,2245,9
+Assam,SIVASAGAR,2000,Summer     ,Rice,444,7385
+Assam,SIVASAGAR,2000,Winter     ,Rice,97210,3015
+Assam,SIVASAGAR,2001,Autumn     ,Rice,2014,10
+Assam,SIVASAGAR,2001,Summer     ,Rice,283,4795
+Assam,SIVASAGAR,2001,Winter     ,Rice,97255,1940
+Assam,SIVASAGAR,2002,Autumn     ,Rice,2023,12
+Assam,SIVASAGAR,2002,Summer     ,Rice,180,2752
+Assam,SIVASAGAR,2002,Winter     ,Rice,97649,2035
+Assam,SIVASAGAR,2003,Autumn     ,Rice,1485,13
+Assam,SIVASAGAR,2003,Summer     ,Rice,252,3301
+Assam,SIVASAGAR,2003,Winter     ,Rice,97710,2159
+Assam,SIVASAGAR,2004,Autumn     ,Rice,1614,12
+Assam,SIVASAGAR,2004,Summer     ,Rice,198,4373000
+Assam,SIVASAGAR,2004,Winter     ,Rice,98450,1224
+Assam,SIVASAGAR,2005,Autumn     ,Rice,719,20
+Assam,SIVASAGAR,2005,Summer     ,Rice,78,2884
+Assam,SIVASAGAR,2005,Winter     ,Rice,100494,1655
+Assam,SIVASAGAR,2006,Autumn     ,Rice,994,16
+Assam,SIVASAGAR,2006,Summer     ,Rice,76,2288
+Assam,SIVASAGAR,2006,Winter     ,Rice,96103,248
+Assam,SIVASAGAR,2007,Autumn     ,Rice,229,17
+Assam,SIVASAGAR,2007,Summer     ,Rice,16,2574
+Assam,SIVASAGAR,2007,Winter     ,Rice,93249,356
+Assam,SIVASAGAR,2008,Autumn     ,Rice,405,9
+Assam,SIVASAGAR,2008,Summer     ,Rice,85,2438
+Assam,SIVASAGAR,2008,Winter     ,Rice,105920,588
+Assam,SIVASAGAR,2009,Autumn     ,Rice,439,18
+Assam,SIVASAGAR,2009,Summer     ,Rice,13,2266
+Assam,SIVASAGAR,2009,Winter     ,Rice,101185,205
+Assam,SIVASAGAR,2010,Autumn     ,Rice,198,37
+Assam,SIVASAGAR,2010,Summer     ,Rice,53,18798
+Assam,SIVASAGAR,2010,Winter     ,Rice,92927,52
+Assam,SIVASAGAR,2011,Autumn     ,Rice,62,21
+Assam,SIVASAGAR,2011,Summer     ,Rice,336,23984
+Assam,SIVASAGAR,2011,Winter     ,Rice,96696,150
+Assam,SIVASAGAR,2012,Autumn     ,Rice,129,26
+Assam,SIVASAGAR,2012,Summer     ,Rice,172,25708
+Assam,SIVASAGAR,2012,Winter     ,Rice,95535,300
+Assam,SIVASAGAR,2013,Autumn     ,Rice,200,20
+Assam,SIVASAGAR,2013,Summer     ,Rice,553,24741
+Assam,SIVASAGAR,2013,Winter     ,Rice,95779,134
+Assam,SIVASAGAR,2014,Autumn     ,Rice,86,26
+Assam,SIVASAGAR,2014,Summer     ,Rice,2099,23823
+Assam,SIVASAGAR,2014,Winter     ,Rice,95674,20768
+Assam,SONITPUR,1997,Autumn     ,Rice,31431,239
+Assam,SONITPUR,1997,Summer     ,Rice,6000,4070
+Assam,SONITPUR,1997,Winter     ,Rice,115686,34097
+Assam,SONITPUR,1998,Autumn     ,Rice,31657,269
+Assam,SONITPUR,1998,Summer     ,Rice,7035,2616
+Assam,SONITPUR,1998,Winter     ,Rice,104814,29050
+Assam,SONITPUR,1999,Autumn     ,Rice,27023,286
+Assam,SONITPUR,1999,Summer     ,Rice,9076,3403
+Assam,SONITPUR,1999,Winter     ,Rice,123492,36473
+Assam,SONITPUR,2000,Autumn     ,Rice,35186,309
+Assam,SONITPUR,2000,Summer     ,Rice,9276,2785
+Assam,SONITPUR,2000,Winter     ,Rice,124248,23987
+Assam,SONITPUR,2001,Autumn     ,Rice,29710,312
+Assam,SONITPUR,2001,Summer     ,Rice,10865,5187
+Assam,SONITPUR,2001,Winter     ,Rice,101663,34672
+Assam,SONITPUR,2002,Autumn     ,Rice,32361,336
+Assam,SONITPUR,2002,Summer     ,Rice,12050,4141
+Assam,SONITPUR,2002,Winter     ,Rice,119234,32795
+Assam,SONITPUR,2003,Autumn     ,Rice,33235,413
+Assam,SONITPUR,2003,Summer     ,Rice,12840,3411
+Assam,SONITPUR,2003,Winter     ,Rice,123888,30749
+Assam,SONITPUR,2004,Autumn     ,Rice,34266,405
+Assam,SONITPUR,2004,Summer     ,Rice,13023,15452000
+Assam,SONITPUR,2004,Winter     ,Rice,121436,36121
+Assam,SONITPUR,2005,Autumn     ,Rice,34197,414
+Assam,SONITPUR,2005,Summer     ,Rice,13002,4133
+Assam,SONITPUR,2005,Winter     ,Rice,122067,30187
+Assam,SONITPUR,2006,Autumn     ,Rice,31664,417
+Assam,SONITPUR,2006,Summer     ,Rice,12827,5758
+Assam,SONITPUR,2006,Winter     ,Rice,82779,37223
+Assam,SONITPUR,2007,Autumn     ,Rice,32409,403
+Assam,SONITPUR,2007,Summer     ,Rice,13469,3344
+Assam,SONITPUR,2007,Winter     ,Rice,121200,34022
+Assam,SONITPUR,2008,Autumn     ,Rice,33082,339
+Assam,SONITPUR,2008,Summer     ,Rice,16476,5268
+Assam,SONITPUR,2008,Winter     ,Rice,123826,27550
+Assam,SONITPUR,2009,Autumn     ,Rice,30182,306
+Assam,SONITPUR,2009,Summer     ,Rice,16384,6473
+Assam,SONITPUR,2009,Winter     ,Rice,109672,30104
+Assam,SONITPUR,2010,Autumn     ,Rice,25932,386
+Assam,SONITPUR,2010,Summer     ,Rice,18365,51514
+Assam,SONITPUR,2010,Winter     ,Rice,123978,38519
+Assam,SONITPUR,2011,Autumn     ,Rice,26281,384
+Assam,SONITPUR,2011,Summer     ,Rice,17394,72340
+Assam,SONITPUR,2011,Winter     ,Rice,129240,32422
+Assam,SONITPUR,2012,Autumn     ,Rice,21466,476
+Assam,SONITPUR,2012,Summer     ,Rice,19365,71453
+Assam,SONITPUR,2012,Winter     ,Rice,122123,32904
+Assam,SONITPUR,2013,Autumn     ,Rice,20669,576
+Assam,SONITPUR,2013,Summer     ,Rice,21493,72658
+Assam,SONITPUR,2013,Winter     ,Rice,123892,32220
+Assam,SONITPUR,2014,Autumn     ,Rice,18027,660
+Assam,SONITPUR,2014,Summer     ,Rice,25008,70716
+Assam,SONITPUR,2014,Winter     ,Rice,130052,7740
+Assam,TINSUKIA,1997,Autumn     ,Rice,7790,119
+Assam,TINSUKIA,1997,Summer     ,Rice,72,1473
+Assam,TINSUKIA,1997,Winter     ,Rice,55494,10428
+Assam,TINSUKIA,1998,Autumn     ,Rice,7425,63
+Assam,TINSUKIA,1998,Summer     ,Rice,205,1667
+Assam,TINSUKIA,1998,Winter     ,Rice,57458,10399
+Assam,TINSUKIA,1999,Autumn     ,Rice,7821,65
+Assam,TINSUKIA,1999,Summer     ,Rice,242,1417
+Assam,TINSUKIA,1999,Winter     ,Rice,58739,13214
+Assam,TINSUKIA,2000,Autumn     ,Rice,9070,90
+Assam,TINSUKIA,2000,Summer     ,Rice,400,1691
+Assam,TINSUKIA,2000,Winter     ,Rice,59206,11390
+Assam,TINSUKIA,2001,Autumn     ,Rice,8469,89
+Assam,TINSUKIA,2001,Summer     ,Rice,65,2626
+Assam,TINSUKIA,2001,Winter     ,Rice,56386,10210
+Assam,TINSUKIA,2002,Autumn     ,Rice,8531,77
+Assam,TINSUKIA,2002,Summer     ,Rice,139,2297
+Assam,TINSUKIA,2002,Winter     ,Rice,57990,10159
+Assam,TINSUKIA,2003,Autumn     ,Rice,7365,70
+Assam,TINSUKIA,2003,Summer     ,Rice,139,3011
+Assam,TINSUKIA,2003,Winter     ,Rice,61106,9428
+Assam,TINSUKIA,2004,Autumn     ,Rice,7130,53
+Assam,TINSUKIA,2004,Summer     ,Rice,5,321000
+Assam,TINSUKIA,2004,Winter     ,Rice,54045,5005
+Assam,TINSUKIA,2005,Autumn     ,Rice,4010,69
+Assam,TINSUKIA,2005,Winter     ,Rice,55274,4997
+Assam,TINSUKIA,2006,Autumn     ,Rice,4890,66
+Assam,TINSUKIA,2006,Summer     ,Rice,10,1160
+Assam,TINSUKIA,2006,Winter     ,Rice,55537,6315
+Assam,TINSUKIA,2007,Autumn     ,Rice,6333,60
+Assam,TINSUKIA,2007,Summer     ,Rice,12,1229
+Assam,TINSUKIA,2007,Winter     ,Rice,56528,7806
+Assam,TINSUKIA,2008,Autumn     ,Rice,6860,57
+Assam,TINSUKIA,2008,Winter     ,Rice,58870,3829
+Assam,TINSUKIA,2009,Autumn     ,Rice,3953,83
+Assam,TINSUKIA,2009,Summer     ,Rice,61,1009
+Assam,TINSUKIA,2009,Winter     ,Rice,62459,12549
+Assam,TINSUKIA,2010,Autumn     ,Rice,6278,85
+Assam,TINSUKIA,2010,Summer     ,Rice,71,25510
+Assam,TINSUKIA,2010,Winter     ,Rice,58281,11704
+Assam,TINSUKIA,2011,Autumn     ,Rice,6202,74
+Assam,TINSUKIA,2011,Summer     ,Rice,85,29022
+Assam,TINSUKIA,2011,Winter     ,Rice,58355,7964
+Assam,TINSUKIA,2012,Autumn     ,Rice,5806,80
+Assam,TINSUKIA,2012,Summer     ,Rice,250,30402
+Assam,TINSUKIA,2012,Winter     ,Rice,53003,7595
+Assam,TINSUKIA,2013,Autumn     ,Rice,5346,91
+Assam,TINSUKIA,2013,Summer     ,Rice,85,30908
+Assam,TINSUKIA,2013,Winter     ,Rice,56890,7682
+Assam,TINSUKIA,2014,Autumn     ,Rice,5670,79
+Assam,TINSUKIA,2014,Summer     ,Rice,201,31066
+Assam,TINSUKIA,2014,Winter     ,Rice,57642,14532
+Assam,UDALGURI,2005,Autumn     ,Rice,21750,133
+Assam,UDALGURI,2005,Summer     ,Rice,11996,7095
+Assam,UDALGURI,2005,Winter     ,Rice,43995,17128
+Assam,UDALGURI,2006,Autumn     ,Rice,29059,127
+Assam,UDALGURI,2006,Summer     ,Rice,12089,1046
+Assam,UDALGURI,2006,Winter     ,Rice,38404,24388
+Assam,UDALGURI,2007,Autumn     ,Rice,26231,98
+Assam,UDALGURI,2007,Summer     ,Rice,11102,1648
+Assam,UDALGURI,2007,Winter     ,Rice,35631,28900
+Assam,UDALGURI,2008,Autumn     ,Rice,24870,221
+Assam,UDALGURI,2008,Summer     ,Rice,3419,2024
+Assam,UDALGURI,2008,Winter     ,Rice,59976,23668
+Assam,UDALGURI,2009,Autumn     ,Rice,28494,190
+Assam,UDALGURI,2009,Summer     ,Rice,4056,1841
+Assam,UDALGURI,2009,Winter     ,Rice,56358,24523
+Assam,UDALGURI,2010,Autumn     ,Rice,28295,150
+Assam,UDALGURI,2010,Summer     ,Rice,5101,7939
+Assam,UDALGURI,2010,Winter     ,Rice,61418,27949
+Assam,UDALGURI,2011,Autumn     ,Rice,28384,169
+Assam,UDALGURI,2011,Summer     ,Rice,5770,8721
+Assam,UDALGURI,2011,Winter     ,Rice,61485,29510
+Assam,UDALGURI,2012,Autumn     ,Rice,25140,162
+Assam,UDALGURI,2012,Summer     ,Rice,5710,9333
+Assam,UDALGURI,2012,Winter     ,Rice,62167,20367
+Assam,UDALGURI,2013,Autumn     ,Rice,21145,210
+Assam,UDALGURI,2013,Summer     ,Rice,6269,9271
+Assam,UDALGURI,2013,Winter     ,Rice,63205,24554
+Assam,UDALGURI,2014,Autumn     ,Rice,25642,199
+Assam,UDALGURI,2014,Summer     ,Rice,5805,10254
+Assam,UDALGURI,2014,Winter     ,Rice,63210,21397
